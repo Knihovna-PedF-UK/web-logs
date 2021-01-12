@@ -65,6 +65,74 @@ local function add_record(unique_users, record, line)
   return true
 end
 
+-- update counter for the current field
+local function update_counter(tbl, field)
+  local current = tbl[field] or 0
+  current = current + 1
+  tbl[field] = current
+end
+
+-- sort table with counters
+local function sort_counter_table(tbl)
+  local newtable = {}
+  for k,v in pairs(tbl) do
+    newtable[#newtable+1] = {name = k, count = v}
+  end
+  -- sort downwards
+  table.sort(newtable, function(a,b) return a.count > b.count end)
+  return newtable
+end
+
+-- normalize referers
+local function clean_referer(referer)
+  local referer = referer or ""
+  -- cleanup referer
+  referer = referer:gsub("^https?://", "")
+  referer = referer:gsub("index.html$", ""):gsub("/$", "")
+  if referer == "" then referer = "---" end
+  return referer
+end
+
+-- add  web page host name to referrers in session
+local function on_page_referer(referer)
+  return clean_referer("knihovna.pedf.cuni.cz" .. referer)
+end
+
+local function count_referers(unique_visits)
+  local referers = {}
+  for _, x in ipairs(unique_visits) do
+    local referer = clean_referer(x.record.referer)
+    update_counter(referers, referer)
+  end
+  return sort_counter_table(referers)
+end
+
+local function get_visit_pages(unique_users, visit)
+  print("++++++++++++++++++")
+  local start = visit.record_no
+  local id = visit.user_id
+  local user = unique_users[id]
+  local first = user[start]
+  local referer = clean_referer(first.referer)
+  print(first.time, first.agent)
+  print(first.page, referer)
+  -- process session only if it exists
+  if #user > start then
+    referer = on_page_referer(first.page)
+    for i = start+1, #user do
+      local current = user[i]
+      -- stop on next visit
+      if current.new_visit then break end
+      if clean_referer(current.referer) == referer then
+        print(">> " .. current.page)
+      else
+        print(current.page, current.referer, referer)
+      end
+      referer = on_page_referer(current.page)
+    end
+  end
+
+end
 
 
 -- parse log file
@@ -79,10 +147,22 @@ for line in io.lines() do
 end
 
 print("Unique visits", #unique_visits)
+print("Total visits", #records)
 
-for _, x in ipairs(unique_visits) do
-  print(x.record.referer)
+print "-----------"
+print("# Referers")
+for k,v in ipairs(count_referers(unique_visits)) do
+  print(v.name, v.count)
 end
 
+
+print ""
+print "-----------"
+print "Visited pages in unique visits"
+
+-- 
+for _, visit in ipairs(unique_visits) do
+  local pages = get_visit_pages(unique_users, visit)
+end
 
 
