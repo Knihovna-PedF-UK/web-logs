@@ -7,6 +7,13 @@ local unique_users = {}
 local unique_visits = {}
 local unique_visit_time = 2 * 60 * 60 -- unique visit is two hours after last visit
 
+-- ignore my workstation
+local ignored_ips = {
+  a16d7cc7ae347f3a0306a20e6e0aa306=true,
+  d82a89ef48b8c5935c6817d76b09ad43=true,
+  ["0ce2a6aa13d1938a0e05d7a825accdd0"]=true
+}
+
 -- pase date string to timestamp
 local function parse_time(time)
   local year, month, day, hour, minute, second = time:match("(.+)/(.+)/(.+)%s+(.+):(.+):(.+)")
@@ -54,6 +61,10 @@ end
 local function add_record(unique_users, record, line)
   local identifier, msg = get_user_identifier(record)
   if not identifier then return nil, msg end
+  -- ignore webmaster IP
+  if ignored_ips[record.hash] then 
+    return true 
+  end
   local current_user = unique_users[identifier] or {}
   local record_no = #current_user + 1
   if is_unique_visit(current_user, record) then
