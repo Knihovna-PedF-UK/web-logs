@@ -918,3 +918,156 @@ d61e65e93aa5d4b511b3a26a3f4b33b9	2022/01/06 15:15:26	/postup_objedn_knih.htm		Mo
 fab6014ecb62d9dfa0adf759b105af12	2022/01/06 15:17:43	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36	1920,1080,1	0
 fab6014ecb62d9dfa0adf759b105af12	2022/01/06 15:17:43	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36	1920,1080,1	0
 fab6014ecb62d9dfa0adf759b105af12	2022/01/06 15:18:04	/rezervacni_boxy.html	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36	1920,1080,1	0
+9b001ed6ddea4bd29d59570ada5e8a6c	2022/01/06 15:19:42	/	https://www.google.com/	Mozilla/5.0 (Linux; Android 11; SM-M317F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36	412,915,2.625	0
+c4826e7456e5343124a0b9e596c92b20	2022/01/06 15:21:57	/homepage.html		Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+c4b965e49dcbf52fe9f984f3bcdc2ba1	2022/01/06 15:23:04	/provozni_doba.htm	https://www.google.com/	Mozilla/5.0 (Linux; Android 10; HRY-LX1T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36	360,780,3	0
+c4b965e49dcbf52fe9f984f3bcdc2ba1	2022/01/06 15:23:30	/sluzby.htm	https://knihovna.pedf.cuni.cz/provozni_doba.htm	Mozilla/5.0 (Linux; Android 10; HRY-LX1T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36	360,780,3	0
+d82a89ef48b8c5935c6817d76b09ad43	2022/01/06 15:23:39	/		Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d82a89ef48b8c5935c6817d76b09ad43	2022/01/06 15:23:41	/objednavani_liter.htm	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+c4b965e49dcbf52fe9f984f3bcdc2ba1	2022/01/06 15:23:51	/vypujcni_protokol.html	https://knihovna.pedf.cuni.cz/sluzby.htm	Mozilla/5.0 (Linux; Android 10; HRY-LX1T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36	360,780,3	0
+c4b965e49dcbf52fe9f984f3bcdc2ba1	2022/01/06 15:24:05	/bibliobox.html	https://knihovna.pedf.cuni.cz/vypujcni_protokol.html	Mozilla/5.0 (Linux; Android 10; HRY-LX1T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36	360,780,3	0
+d61e65e93aa5d4b511b3a26a3f4b33b9	2022/01/06 15:30:01	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d61e65e93aa5d4b511b3a26a3f4b33b9	2022/01/06 15:30:03	/sluzby.htm	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+5fbfcb25aa05b52ab03646bf0ae0242f	2022/01/06 15:30:21	/homepage.html		Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+f32bbb1f0938e2e2008e041766641bee	2022/01/06 15:31:31	/homepage.html		Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d61e65e93aa5d4b511b3a26a3f4b33b9	2022/01/06 15:31:41	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+f32bbb1f0938e2e2008e041766641bee	2022/01/06 15:31:43	/	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d61e65e93aa5d4b511b3a26a3f4b33b9	2022/01/06 15:31:43	/sluzby.htm	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+f32bbb1f0938e2e2008e041766641bee	2022/01/06 15:31:51	/sluzby.htm	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+13b168e0a537cfb13511073f995e8391	2022/01/06 15:32:11	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+13b168e0a537cfb13511073f995e8391	2022/01/06 15:32:13	/sluzby.htm	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+b9c39c7b51b9b35985321181534ffa90	2022/01/06 15:34:52	/homepage.html		Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+bf1132c7d668d53ae85719ec00394dd8	2022/01/06 15:35:09	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36	1536,864,1.25	0
+d82a89ef48b8c5935c6817d76b09ad43	2022/01/06 15:35:33	/		Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d82a89ef48b8c5935c6817d76b09ad43	2022/01/06 15:35:36	/objednavani_liter.htm	http://localhost:8000/	Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d82a89ef48b8c5935c6817d76b09ad43	2022/01/06 15:35:38	/info_granty.htm	http://localhost:8000/objednavani_liter.htm	Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d82a89ef48b8c5935c6817d76b09ad43	2022/01/06 15:35:57	/info_granty_2011.htm		Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+a27056f5b3dc50061cb550bf612a14f4	2022/01/06 15:36:43	/	https://www.google.com/	Mozilla/5.0 (iPhone; CPU iPhone OS 13_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Mobile/15E148 Safari/604.1	320,568,2	0
+a27056f5b3dc50061cb550bf612a14f4	2022/01/06 15:36:52	/vypujcni_protokol.html	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (iPhone; CPU iPhone OS 13_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Mobile/15E148 Safari/604.1	320,568,2	0
+a27056f5b3dc50061cb550bf612a14f4	2022/01/06 15:37:03	/sluzby.htm	https://knihovna.pedf.cuni.cz/vypujcni_protokol.html	Mozilla/5.0 (iPhone; CPU iPhone OS 13_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Mobile/15E148 Safari/604.1	320,568,2	0
+a27056f5b3dc50061cb550bf612a14f4	2022/01/06 15:37:04	/vypujcni_protokol.html	https://knihovna.pedf.cuni.cz/sluzby.htm	Mozilla/5.0 (iPhone; CPU iPhone OS 13_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Mobile/15E148 Safari/604.1	320,568,2	0
+d82a89ef48b8c5935c6817d76b09ad43	2022/01/06 15:37:17	/info_granty_2011.htm		Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d82a89ef48b8c5935c6817d76b09ad43	2022/01/06 15:37:17	/info_granty.htm		Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d82a89ef48b8c5935c6817d76b09ad43	2022/01/06 15:37:31	/info_granty.htm		Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d82a89ef48b8c5935c6817d76b09ad43	2022/01/06 15:37:31	/info_granty.htm		Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+0d2738751c529fff1503889af661fb8c	2022/01/06 15:39:11	/homepage.html		Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+76f6599f259d5dd6808f6ca76927187d	2022/01/06 15:40:44	/bibliobox.html	https://www.google.com/	Mozilla/5.0 (Linux; Android 9; ANE-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36	360,760,3	0
+5562525366d1815555425014db7775a4	2022/01/06 15:41:48	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36	1440,960,1.5	0
+d82a89ef48b8c5935c6817d76b09ad43	2022/01/06 15:42:06	/info_granty.htm		Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+0e0bc86168d7399737d79c4735dbe9b9	2022/01/06 15:42:35	/provozni_doba.htm	https://www.google.com/	Mozilla/5.0 (iPhone; CPU iPhone OS 15_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Mobile/15E148 Safari/604.1	390,844,3	0
+0e0bc86168d7399737d79c4735dbe9b9	2022/01/06 15:42:44	/informace.htm	https://knihovna.pedf.cuni.cz/provozni_doba.htm	Mozilla/5.0 (iPhone; CPU iPhone OS 15_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Mobile/15E148 Safari/604.1	390,844,3	0
+0e0bc86168d7399737d79c4735dbe9b9	2022/01/06 15:43:30	/kontaktni_adresa.htm	https://knihovna.pedf.cuni.cz/informace.htm	Mozilla/5.0 (iPhone; CPU iPhone OS 15_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Mobile/15E148 Safari/604.1	390,844,3	0
+d82a89ef48b8c5935c6817d76b09ad43	2022/01/06 15:43:33	/info_granty.htm		Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d82a89ef48b8c5935c6817d76b09ad43	2022/01/06 15:43:40	/info_granty_2011.htm	https://knihovna.pedf.cuni.cz/objednavani_liter.htm	Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d82a89ef48b8c5935c6817d76b09ad43	2022/01/06 15:43:40	/info_granty.htm		Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d82a89ef48b8c5935c6817d76b09ad43	2022/01/06 15:43:44	/objednavani_liter.htm	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d82a89ef48b8c5935c6817d76b09ad43	2022/01/06 15:43:46	/objednavani_liter.htm	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d82a89ef48b8c5935c6817d76b09ad43	2022/01/06 15:43:48	/info_granty.htm	https://knihovna.pedf.cuni.cz/objednavani_liter.htm	Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+0e0bc86168d7399737d79c4735dbe9b9	2022/01/06 15:46:37	/index.html		Mozilla/5.0 (iPhone; CPU iPhone OS 15_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Mobile/15E148 Safari/604.1	390,844,3	0
+0e0bc86168d7399737d79c4735dbe9b9	2022/01/06 15:46:42	/informace.htm	https://knihovna.pedf.cuni.cz/index.html	Mozilla/5.0 (iPhone; CPU iPhone OS 15_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Mobile/15E148 Safari/604.1	390,844,3	0
+d61e65e93aa5d4b511b3a26a3f4b33b9	2022/01/06 15:46:46	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+0e0bc86168d7399737d79c4735dbe9b9	2022/01/06 15:46:46	/kontaktni_adresa.htm	https://knihovna.pedf.cuni.cz/informace.htm	Mozilla/5.0 (iPhone; CPU iPhone OS 15_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Mobile/15E148 Safari/604.1	390,844,3	0
+d61e65e93aa5d4b511b3a26a3f4b33b9	2022/01/06 15:46:49	/sluzby.htm	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+0d2738751c529fff1503889af661fb8c	2022/01/06 15:49:18	/homepage.html		Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+338d84a8d97888c1a217e6a4d5d621a3	2022/01/06 15:49:28	/index-en.html	https://pedf.cuni.cz/	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,2	0
+9b001ed6ddea4bd29d59570ada5e8a6c	2022/01/06 15:54:24	/studovna.html	https://www.google.com/	Mozilla/5.0 (Linux; Android 9; ANE-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36	360,760,3	0
+9b001ed6ddea4bd29d59570ada5e8a6c	2022/01/06 15:54:59	/cenik.htm	https://knihovna.pedf.cuni.cz/studovna.html	Mozilla/5.0 (Linux; Android 9; ANE-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36	360,760,3	0
+6e2fe06924ca33318732e61337b21739	2022/01/06 15:55:47	/index.html	https://knihovna.pedf.cuni.cz/informace.htm	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36	1920,1080,1	0
+a11da24382987d2dff6367c56fa5efb4	2022/01/06 15:56:27	/repozitare_zp.html	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62	1280,720,1.5	0
+24205bb94a804f70c773cb1842b6202e	2022/01/06 15:58:14	/studovna.html	https://www.google.com	Mozilla/5.0 (iPhone; CPU iPhone OS 14_8_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Mobile/15E148 Safari/604.1	390,844,3	0
+24205bb94a804f70c773cb1842b6202e	2022/01/06 15:59:12	/celetna.html	https://www.google.com	Mozilla/5.0 (iPhone; CPU iPhone OS 14_8_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Mobile/15E148 Safari/604.1	390,844,3	0
+ad59b4a0b1f08759f43e9382fcc8c159	2022/01/06 16:01:00	/		Mozilla/5.0 (iPhone; CPU iPhone OS 15_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Mobile/15E148 Safari/604.1	375,667,2	0
+0d2738751c529fff1503889af661fb8c	2022/01/06 16:05:22	/homepage.html		Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+3dedcc4e102a7428cac39d12ec7b99e4	2022/01/06 16:07:46	/provozni_doba.htm	https://www.google.com/	Mozilla/5.0 (Linux; Android 9; Redmi 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36	360,720,2	0
+338d84a8d97888c1a217e6a4d5d621a3	2022/01/06 16:09:19	/		Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,2	0
+0d2738751c529fff1503889af661fb8c	2022/01/06 16:12:00	/homepage.html		Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+aa96615872978f59ea6b4dece07e3984	2022/01/06 16:12:42	/		Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1366,768,1	0
+b9c39c7b51b9b35985321181534ffa90	2022/01/06 16:17:23	/homepage.html		Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d61e65e93aa5d4b511b3a26a3f4b33b9	2022/01/06 16:22:21	/postup_objedn_knih.htm		Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d61e65e93aa5d4b511b3a26a3f4b33b9	2022/01/06 16:22:25	/postup_objedn_knih.htm		Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+233108c0d196f81c657c70cbd118f239	2022/01/06 16:28:15	/	https://www.google.com/	Mozilla/5.0 (Linux; Android 11; M1908C3JGG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36	393,851,2.75	0
+233108c0d196f81c657c70cbd118f239	2022/01/06 16:28:32	/	https://www.google.com/	Mozilla/5.0 (Linux; Android 11; M1908C3JGG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36	393,851,2.75	0
+d82a89ef48b8c5935c6817d76b09ad43	2022/01/06 16:28:49	/		Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+233108c0d196f81c657c70cbd118f239	2022/01/06 16:28:56	/	https://www.google.com/	Mozilla/5.0 (Linux; Android 11; M1908C3JGG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36	393,851,2.75	0
+d82a89ef48b8c5935c6817d76b09ad43	2022/01/06 16:29:16	/objednavani_liter.htm	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d82a89ef48b8c5935c6817d76b09ad43	2022/01/06 16:29:18	/postup_objedn_knih.htm	https://knihovna.pedf.cuni.cz/objednavani_liter.htm	Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+233108c0d196f81c657c70cbd118f239	2022/01/06 16:29:18	/rezervacni_boxy.html	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (Linux; Android 11; M1908C3JGG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36	393,851,2.75	0
+d82a89ef48b8c5935c6817d76b09ad43	2022/01/06 16:29:22	/info_granty.htm	https://knihovna.pedf.cuni.cz/objednavani_liter.htm	Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d82a89ef48b8c5935c6817d76b09ad43	2022/01/06 16:29:31	/postup_objedn_knih.htm	https://knihovna.pedf.cuni.cz/objednavani_liter.htm	Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d82a89ef48b8c5935c6817d76b09ad43	2022/01/06 16:29:31	/postup_objedn_knih.htm	https://knihovna.pedf.cuni.cz/objednavani_liter.htm	Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d82a89ef48b8c5935c6817d76b09ad43	2022/01/06 16:29:32	/postup_objedn_knih.htm	https://knihovna.pedf.cuni.cz/objednavani_liter.htm	Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d61e65e93aa5d4b511b3a26a3f4b33b9	2022/01/06 16:29:38	/postup_objedn_knih.htm		Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d61e65e93aa5d4b511b3a26a3f4b33b9	2022/01/06 16:29:41	/postup_objedn_knih.htm		Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d61e65e93aa5d4b511b3a26a3f4b33b9	2022/01/06 16:29:44	/postup_objedn_knih.htm		Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d61e65e93aa5d4b511b3a26a3f4b33b9	2022/01/06 16:29:45	/postup_objedn_knih.htm		Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d61e65e93aa5d4b511b3a26a3f4b33b9	2022/01/06 16:29:46	/postup_objedn_knih.htm		Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d61e65e93aa5d4b511b3a26a3f4b33b9	2022/01/06 16:29:48	/postup_objedn_knih.htm		Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d61e65e93aa5d4b511b3a26a3f4b33b9	2022/01/06 16:29:49	/postup_objedn_knih.htm		Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d61e65e93aa5d4b511b3a26a3f4b33b9	2022/01/06 16:29:54	/postup_objedn_knih.htm		Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d61e65e93aa5d4b511b3a26a3f4b33b9	2022/01/06 16:29:54	/postup_objedn_knih.htm		Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d61e65e93aa5d4b511b3a26a3f4b33b9	2022/01/06 16:29:55	/postup_objedn_knih.htm		Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d61e65e93aa5d4b511b3a26a3f4b33b9	2022/01/06 16:29:55	/postup_objedn_knih.htm		Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d61e65e93aa5d4b511b3a26a3f4b33b9	2022/01/06 16:29:56	/postup_objedn_knih.htm		Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d61e65e93aa5d4b511b3a26a3f4b33b9	2022/01/06 16:29:56	/postup_objedn_knih.htm		Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d61e65e93aa5d4b511b3a26a3f4b33b9	2022/01/06 16:30:23	/index.html		Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d4f6c523e6d536f16814dc3a46d24988	2022/01/06 16:31:23	/	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36	1536,864,1.25	0
+d61e65e93aa5d4b511b3a26a3f4b33b9	2022/01/06 16:33:03	/postup_objedn_knih.htm		Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d61e65e93aa5d4b511b3a26a3f4b33b9	2022/01/06 16:33:05	/postup_objedn_knih.htm		Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d61e65e93aa5d4b511b3a26a3f4b33b9	2022/01/06 16:33:31	/postup_objedn_knih.htm		Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d61e65e93aa5d4b511b3a26a3f4b33b9	2022/01/06 16:33:34	/postup_objedn_knih.htm		Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d61e65e93aa5d4b511b3a26a3f4b33b9	2022/01/06 16:33:36	/postup_objedn_knih.htm		Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d61e65e93aa5d4b511b3a26a3f4b33b9	2022/01/06 16:33:37	/postup_objedn_knih.htm		Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d61e65e93aa5d4b511b3a26a3f4b33b9	2022/01/06 16:33:41	/postup_objedn_knih.htm		Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d82a89ef48b8c5935c6817d76b09ad43	2022/01/06 16:35:53	/		Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d61e65e93aa5d4b511b3a26a3f4b33b9	2022/01/06 16:38:08	/index.html	https://knihovna.pedf.cuni.cz/index.html	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d61e65e93aa5d4b511b3a26a3f4b33b9	2022/01/06 16:38:29	/index.html	https://knihovna.pedf.cuni.cz/postup_objedn_knih.htm	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d61e65e93aa5d4b511b3a26a3f4b33b9	2022/01/06 16:38:31	/index.html	https://knihovna.pedf.cuni.cz/index.html	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d61e65e93aa5d4b511b3a26a3f4b33b9	2022/01/06 16:38:50	/rezervacni_boxy.html	https://knihovna.pedf.cuni.cz/index.html	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d61e65e93aa5d4b511b3a26a3f4b33b9	2022/01/06 16:39:02	/objednavani_liter.htm	https://knihovna.pedf.cuni.cz/rezervacni_boxy.html	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d61e65e93aa5d4b511b3a26a3f4b33b9	2022/01/06 16:39:05	/postup_objedn_knih.htm	https://knihovna.pedf.cuni.cz/objednavani_liter.htm	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d82a89ef48b8c5935c6817d76b09ad43	2022/01/06 16:39:09	/		Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d82a89ef48b8c5935c6817d76b09ad43	2022/01/06 16:39:20	/		Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d82a89ef48b8c5935c6817d76b09ad43	2022/01/06 16:39:34	/objednavani_liter.htm	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d82a89ef48b8c5935c6817d76b09ad43	2022/01/06 16:39:36	/postup_objedn_knih.htm	https://knihovna.pedf.cuni.cz/objednavani_liter.htm	Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d82a89ef48b8c5935c6817d76b09ad43	2022/01/06 16:39:37	/postup_objedn_knih.htm	https://knihovna.pedf.cuni.cz/objednavani_liter.htm	Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d61e65e93aa5d4b511b3a26a3f4b33b9	2022/01/06 16:42:58	/index.html	https://knihovna.pedf.cuni.cz/postup_objedn_knih.htm	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+d61e65e93aa5d4b511b3a26a3f4b33b9	2022/01/06 16:42:59	/index.html	https://knihovna.pedf.cuni.cz/index.html	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+3dedcc4e102a7428cac39d12ec7b99e4	2022/01/06 17:00:26	/postup_objedn_knih.htm	https://www.google.com/	Mozilla/5.0 (Linux; Android 9; Redmi 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36	360,720,2	0
+9d469421e0e456bcf6db0cf3f595b5a7	2022/01/06 17:07:04	/	https://www.google.com/	Mozilla/5.0 (Linux; Android 11; M2003J15SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36	393,851,2.75	0
+9d469421e0e456bcf6db0cf3f595b5a7	2022/01/06 17:07:27	/rezervacni_boxy.html	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (Linux; Android 11; M2003J15SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36	393,851,2.75	0
+db6c044c809ad2872032e64f36d78b5d	2022/01/06 17:07:59	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+db6c044c809ad2872032e64f36d78b5d	2022/01/06 17:08:05	/objednavani_liter.htm	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+be01ed6d6eec177e647095dce44dda4b	2022/01/06 17:10:16	/	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+4a4de36f49c6a01a16660d94e7c18c88	2022/01/06 17:17:21	/		Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36	1440,900,1	0
+4a4de36f49c6a01a16660d94e7c18c88	2022/01/06 17:17:57	/eiz.htm	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36	1440,900,1	0
+4a4de36f49c6a01a16660d94e7c18c88	2022/01/06 17:18:05	/bookport.html	https://knihovna.pedf.cuni.cz/eiz.htm	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36	1440,900,1	0
+4a4de36f49c6a01a16660d94e7c18c88	2022/01/06 17:18:22	/bookport.html	https://knihovna.pedf.cuni.cz/eiz.htm	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36	1440,900,1	0
+4a4de36f49c6a01a16660d94e7c18c88	2022/01/06 17:18:22	/eiz.htm	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36	1440,900,1	0
+4a4de36f49c6a01a16660d94e7c18c88	2022/01/06 17:19:18	/elektronicke_knihy.htm	https://knihovna.pedf.cuni.cz/eiz.htm	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36	1440,900,1	0
+6b85d549a0b62630b4e574aa4fec3261	2022/01/06 17:26:53	/	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36	2560,1440,1	0
+56ef48edcda7e30ae3d6a56d01857859	2022/01/06 17:31:29	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1696,954,1.1320754716981132	0
+79f2d972ff08bf74b34240ab37ddfce9	2022/01/06 17:32:16	/repozitare_zp.html	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36	1280,720,1.5	0
+0d2738751c529fff1503889af661fb8c	2022/01/06 17:37:30	/homepage.html		Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+72d5ee15738a23d049ff0202f722f40a	2022/01/06 17:39:31	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1536,864,1.25	0
+c4e5285567964f4b967219e819e0561a	2022/01/06 17:44:44	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36	1920,1200,1	0
+c4e5285567964f4b967219e819e0561a	2022/01/06 17:44:49	/kvalifikacni_prace.htm	http://knihovna.pedf.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36	1920,1200,1	0
+c4e5285567964f4b967219e819e0561a	2022/01/06 17:45:04	/inform_vzdelavani.htm	http://knihovna.pedf.cuni.cz/kvalifikacni_prace.htm	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36	1920,1200,1	0
+c4e5285567964f4b967219e819e0561a	2022/01/06 17:47:18	/inform_vzdelavani.htm	http://knihovna.pedf.cuni.cz/kvalifikacni_prace.htm	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36	1920,1200,1	0
+0d2738751c529fff1503889af661fb8c	2022/01/06 18:05:35	/homepage.html		Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+6e8b599f1ffea0c86d91093202cc1c68	2022/01/06 18:08:16	/homepage.html		Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1920,1080,1	0
+412b242509565f2d78adc9f56f30a2ea	2022/01/06 18:14:13	/bookport.html	https://www.google.com/	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15	834,1194,2	0
+53cd6caa5cad350e9c7428e7115d89e9	2022/01/06 18:22:14	/	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36	1920,1080,0.8999999761581421	0
+53cd6caa5cad350e9c7428e7115d89e9	2022/01/06 18:22:15	/informace.htm	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36	1920,1080,0.8999999761581421	0
+53cd6caa5cad350e9c7428e7115d89e9	2022/01/06 18:22:17	/kontaktni_adresa.htm	https://knihovna.pedf.cuni.cz/informace.htm	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36	1920,1080,0.8999999761581421	0
+60f9086427aa45e9df03615bd9f76127	2022/01/06 18:24:46	/	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 OPR/82.0.4227.43	1280,720,1.5	0
+62ffe3d90e8c2fc54b4481234dfd3292	2022/01/06 18:31:56	/provozni_doba.htm	https://www.google.com/	Mozilla/5.0 (iPhone; CPU iPhone OS 15_0_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1	375,667,2	0
+62ffe3d90e8c2fc54b4481234dfd3292	2022/01/06 18:32:08	/studovna.html	https://knihovna.pedf.cuni.cz/provozni_doba.htm	Mozilla/5.0 (iPhone; CPU iPhone OS 15_0_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1	375,667,2	0
+d45bf7a0b3051ee2c43e8cd245d0bba5	2022/01/06 18:34:14	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1536,864,1.25	0
+d45bf7a0b3051ee2c43e8cd245d0bba5	2022/01/06 18:34:29	/rezervacni_boxy.html	http://knihovna.pedf.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1536,864,1.25	0
+d45bf7a0b3051ee2c43e8cd245d0bba5	2022/01/06 18:35:15	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1536,864,1.25	0
+d45bf7a0b3051ee2c43e8cd245d0bba5	2022/01/06 18:36:58	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1536,864,1.25	0
+d45bf7a0b3051ee2c43e8cd245d0bba5	2022/01/06 18:37:01	/studovna.html	http://knihovna.pedf.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0	1536,864,1.25	0
+f34c9b887061220c08c24d80dac05a69	2022/01/06 18:37:50	/eiz.htm		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62	1920,1080,1	0
+f34c9b887061220c08c24d80dac05a69	2022/01/06 18:38:35	/elektronicke_knihy.htm	https://knihovna.pedf.cuni.cz/eiz.htm	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62	1920,1080,1	0
+62ffe3d90e8c2fc54b4481234dfd3292	2022/01/06 18:44:30	/eiz.htm	https://knihovna.pedf.cuni.cz/studovna.html	Mozilla/5.0 (iPhone; CPU iPhone OS 15_0_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1	375,667,2	0
+e276077624e4de9531e8bef4bbdcb38b	2022/01/06 18:53:18	/provozni_doba.htm	https://www.google.com/	Mozilla/5.0 (Linux; Android 11; RMX2111) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36	360,800,3	0
