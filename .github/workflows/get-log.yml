@@ -8,13 +8,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
       - name: wget
         uses: wei/wget@v1
         with:
           args: -O logs/counter.txt https://knihovna.pedf.cuni.cz/counter/counter.txt
       - name: commit
-        uses: EndBug/add-and-commit@v6
+        uses: EndBug/add-and-commit@v9
         with:
           add: 'logs/counter.txt'
           author_name: "Commit bot"
