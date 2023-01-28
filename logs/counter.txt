@@ -6895,3 +6895,27 @@ a645861b547144c9ace37eb959c1993c	2023/01/27 17:34:07	/zpozdne.html	https://kniho
 38be1f9e94be56498d954a1ad128661b	2023/01/27 18:11:21	/kontaktni_adresa.htm	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.69	1280,720,1.5	0
 1cda7d8e5e54fac3b855bafed6792585	2023/01/27 19:19:32	/	https://www.google.com/	Mozilla/5.0 (iPhone; CPU iPhone OS 15_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6,2 Mobile/15E148 Safari/604.1	375,667,2	0
 c1da4d67a7b04c67c4bf7bf41fe1b57a	2023/01/27 19:20:54	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/109.0	1920,1080,1	0
+0aa61c3cfb6f48625b370ad683886c0c	2023/01/27 19:56:55	/		Mozilla/5.0 (Android 12; Mobile; rv:109.0) Gecko/109.0 Firefox/109.0	378,840,2.857142857142857	0
+05dfafc7efea95533d9b3d6b2c3649be	2023/01/27 20:00:20	/celetna.html	https://www.google.com/	Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Mobile/15E148 Safari/604.1	375,667,2	0
+f99d02d76e10f3e2780d574f4261014b	2023/01/27 20:21:52	/repozitare_zp.html	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36	1280,720,1.5	0
+9d0cbce3323452e36fd8bfebc8667db7	2023/01/27 21:19:04	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36	1536,864,1.25	0
+a464bd4d84ab698b1ac1aa10beb98bd5	2023/01/27 22:20:59	/	https://www.google.com/	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15	1440,900,2	0
+a464bd4d84ab698b1ac1aa10beb98bd5	2023/01/27 22:21:08	/rezervacni_boxy.html	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15	1440,900,2	0
+53f2ee6375b2728a150a246d8ce8b3d8	2023/01/27 22:45:17	/studovna.html	https://www.google.com/	Mozilla/5.0 (iPhone; CPU iPhone OS 16_0_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1	414,896,2	0
+906093dc5cee5ee21bf2c0d8350838ce	2023/01/27 22:53:10	/		Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15	820,1180,2	0
+906093dc5cee5ee21bf2c0d8350838ce	2023/01/27 22:53:18	/rezervacni_boxy.html	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15	820,1180,2	0
+906093dc5cee5ee21bf2c0d8350838ce	2023/01/27 22:53:37	/		Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15	820,1180,2	0
+906093dc5cee5ee21bf2c0d8350838ce	2023/01/27 22:53:44	/eiz.htm	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15	820,1180,2	0
+906093dc5cee5ee21bf2c0d8350838ce	2023/01/27 22:53:58	/bookport.html	https://knihovna.pedf.cuni.cz/eiz.htm	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15	820,1180,2	0
+96201b452fdc133323795b3aa3d57a5d	2023/01/27 22:55:19			Zeno		
+05e825a0b2db9033d9236ef8103a1e58	2023/01/27 23:04:58	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36	1920,1080,1	0
+48719680f1e83c57ec097ea5b773ddd7	2023/01/27 23:23:51	/provozni_doba.htm	http://knihovna.pedf.cuni.cz/informace.htm	Mozilla/5.0 (Linux; Android 9; Redmi Note 8T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Mobile Safari/537.36	393,851,2.75	0
+1612b73f6f54ea92bfc8006165f02f98	2023/01/27 23:24:42	/	https://www.google.com/	Mozilla/5.0 (Linux; Android 13; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Mobile Safari/537.36	412,915,2.625	0
+16e8145114d3868189da3199057da622	2023/01/27 23:33:15	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36	1536,864,1.25	0
+8b09b0f70229472264497d90404fa7b2	2023/01/27 23:36:03	/		Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b	800,600,1	153
+83250a720831cbb861c25ff54db5c6b6	2023/01/27 23:44:09	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36	1536,864,1.25	0
+83250a720831cbb861c25ff54db5c6b6	2023/01/27 23:44:17	/biblio.html	http://knihovna.pedf.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36	1536,864,1.25	0
+c9ce9a513282b939b0100bfabb76bc40	2023/01/28 01:22:37	/	https://www.google.com/	Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1	414,896,2	0
+c9ce9a513282b939b0100bfabb76bc40	2023/01/28 01:22:40	/rezervacni_boxy.html	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1	414,896,2	0
+cf4e43bf586123d85926eea1be78dc3e	2023/01/28 02:11:49	/		Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b	800,600,1	153
+bfe9bb45e21d0129f6acd457129d46df	2023/01/28 04:46:33	/provozni_doba.htm		Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b	800,600,1	153
