@@ -10,9 +10,9 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
       - name: wget
-        uses: wei/wget@v1
+        uses: enflo/curl-action@master
         with:
-          args: -O logs/counter.txt https://knihovna.pedf.cuni.cz/counter/counter.txt
+          curl: -o logs/counter.txt https://knihovna.pedf.cuni.cz/counter/counter.txt
       - name: commit
         uses: EndBug/add-and-commit@v9
         with:
