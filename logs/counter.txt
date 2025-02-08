@@ -7305,3 +7305,5 @@ be853f58c5a9a72df54d888515a26eff	2025/02/08 12:09:37	/provozni_doba.htm	https://
 b18a2ef068450a04cf0050c8774f4920	2025/02/08 14:06:36	/	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0	1536,864,1.25	0
 b18a2ef068450a04cf0050c8774f4920	2025/02/08 14:22:57	/	https://cuni.primo.exlibrisgroup.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0	1536,864,1.25	0
 b18a2ef068450a04cf0050c8774f4920	2025/02/08 14:23:05	/provozni_doba.htm	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0	1536,864,1.25	0
+fbac7528b9bd89ced1798c5abbab61f7	2025/02/08 18:56:55	/	https://search.seznam.cz/	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36	432,960,2.5	0
+724f30da563a6ee6b6cda2c03b953840	2025/02/08 19:03:27	/biblio.html	https://knihovna.pedf.cuni.cz/informace.htm	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0	1680,1050,1	0
