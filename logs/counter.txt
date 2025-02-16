@@ -8530,3 +8530,45 @@ ad1d80e06d594bc7e9b1a22e105b3a21	2025/02/15 23:03:13	/provozni_doba.htm	https://
 34b534017b96ff18588358c68934af76	2025/02/15 23:38:49	/	https://www.google.com/	Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1	375,667,2	0
 077c12787e8d921154eb45bcdfbb29fb	2025/02/16 07:25:25	/		Mozilla/5.0 (compatible; BitSightBot/1.0)	1080,1920,1	153
 077c12787e8d921154eb45bcdfbb29fb	2025/02/16 07:25:29	/		Mozilla/5.0 (compatible; BitSightBot/1.0)	1080,1920,1	153
+e4bd407a0232382baa3a3f2fcb423bed	2025/02/16 08:02:33	/		Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36	393,873,2.75	0
+eb0f465cef0a80152cf8d5a02ef912d7	2025/02/16 08:03:45	/	https://www.google.com/	Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Mobile/15E148 Safari/604.1	393,852,3	0
+eb0f465cef0a80152cf8d5a02ef912d7	2025/02/16 08:03:48	/eiz.htm	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Mobile/15E148 Safari/604.1	393,852,3	0
+b63708f947ca88861bcb7d07ac85458e	2025/02/16 08:07:04	/adresar.htm		'DuckDuckBot-Https/1.1; (+https://duckduckgo.com/duckduckbot)'	1024,768,1	150
+b63708f947ca88861bcb7d07ac85458e	2025/02/16 08:07:20	/studovna.html		'DuckDuckBot-Https/1.1; (+https://duckduckgo.com/duckduckbot)'	1024,768,1	150
+b63708f947ca88861bcb7d07ac85458e	2025/02/16 08:07:22	/studovna.html		'DuckDuckBot-Https/1.1; (+https://duckduckgo.com/duckduckbot)'	1024,768,1	150
+b63708f947ca88861bcb7d07ac85458e	2025/02/16 08:07:37	/eiz-kcl.html		'DuckDuckBot-Https/1.1; (+https://duckduckgo.com/duckduckbot)'	1024,768,1	150
+b63708f947ca88861bcb7d07ac85458e	2025/02/16 08:07:38	/eiz-kcl.html		'DuckDuckBot-Https/1.1; (+https://duckduckgo.com/duckduckbot)'	1024,768,1	150
+b63708f947ca88861bcb7d07ac85458e	2025/02/16 08:07:51	/biblio.html		'DuckDuckBot-Https/1.1; (+https://duckduckgo.com/duckduckbot)'	1024,768,1	150
+b63708f947ca88861bcb7d07ac85458e	2025/02/16 08:07:52	/biblio.html		'DuckDuckBot-Https/1.1; (+https://duckduckgo.com/duckduckbot)'	1024,768,1	150
+b63708f947ca88861bcb7d07ac85458e	2025/02/16 08:08:02	/		'DuckDuckBot-Https/1.1; (+https://duckduckgo.com/duckduckbot)'	1024,768,1	150
+b63708f947ca88861bcb7d07ac85458e	2025/02/16 08:08:04	/		'DuckDuckBot-Https/1.1; (+https://duckduckgo.com/duckduckbot)'	1024,768,1	150
+eb0f465cef0a80152cf8d5a02ef912d7	2025/02/16 08:12:30	/eiz.htm	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Mobile/15E148 Safari/604.1	393,852,3	0
+eb0f465cef0a80152cf8d5a02ef912d7	2025/02/16 08:12:32	/bookport.html	https://knihovna.pedf.cuni.cz/eiz.htm	Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Mobile/15E148 Safari/604.1	393,852,3	0
+03d58c98627b228e282fb96249f71aa0	2025/02/16 08:27:01	/		Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/133.0.6943.84 Mobile/15E148 Safari/604.1	430,932,3	0
+03d58c98627b228e282fb96249f71aa0	2025/02/16 08:27:04	/rezervacni_boxy.html	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/133.0.6943.84 Mobile/15E148 Safari/604.1	430,932,3	0
+9faaedf6d24aabf3ac91f77795257985	2025/02/16 08:38:49	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0	1366,768,1	0
+9faaedf6d24aabf3ac91f77795257985	2025/02/16 08:38:51	/biblio.html	http://knihovna.pedf.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0	1366,768,1	0
+34b534017b96ff18588358c68934af76	2025/02/16 09:15:49	/	https://www.google.com/	Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1	375,667,2	0
+882c1d385db93a2de29e7e5dd61b275f	2025/02/16 09:30:23	/provozni_doba.htm	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36	1536,864,1.25	0
+9faaedf6d24aabf3ac91f77795257985	2025/02/16 09:46:48	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0	1366,768,1	0
+9faaedf6d24aabf3ac91f77795257985	2025/02/16 09:46:51	/biblio.html	http://knihovna.pedf.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0	1366,768,1	0
+8e4e4a7991475534acb40ce3749159f7	2025/02/16 11:29:47	/provozni_doba.htm	https://knihovna.pedf.cuni.cz/informace.htm	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36	360,780,3	0
+ace7731a3d8c9f5b395b8e6dc3448d78	2025/02/16 11:32:28	/		Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36	393,873,2.75	0
+ace7731a3d8c9f5b395b8e6dc3448d78	2025/02/16 11:32:36	/sluzby.htm	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36	393,873,2.75	0
+ace7731a3d8c9f5b395b8e6dc3448d78	2025/02/16 11:32:40	/odpisy.htm	https://knihovna.pedf.cuni.cz/sluzby.htm	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36	393,873,2.75	0
+213978fae67147984d9216e7dc79f536	2025/02/16 11:37:59	/		Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36	360,760,3	0
+59c25690efc5b872573dc0a0ba76f5e2	2025/02/16 11:41:59	/	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36	1536,864,1.25	0
+791e12cb07b42f0da0cabfc886be636c	2025/02/16 11:42:12	/bookport.html	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36	1536,864,1.25	0
+fdacaf85941226f6f58cc5619efe40f1	2025/02/16 11:48:17	/provozni_doba.htm	https://www.google.com/	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36	393,873,2.75	0
+ad53321326ceca42f480cbd6b38d4c37	2025/02/16 11:52:35	/	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36	1536,864,1.25	0
+1df71ad09833d30277e3ac132fa24570	2025/02/16 12:00:52	/handi.htm	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36	1920,1080,1	0
+e4d20e65d0702eac980919d661548035	2025/02/16 12:08:38	/fraus.html	https://dl1.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0	1536,864,1.25	0
+1673eb296857af4d3e2d0f55a09df90b	2025/02/16 12:44:24	/celetna.html	https://cuni.cz/	Mozilla/5.0 (iPhone; CPU iPhone OS 18_0_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0.1 Mobile/15E148 Safari/604.1	440,956,3	0
+4a7495f42bc6d9f311f28d0bf0e6f880	2025/02/16 13:02:34	/celetna.html	https://www.google.com/	Mozilla/5.0 (iPhone; CPU iPhone OS 17_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/243.0.495136164 Mobile/15E148 Safari/604.1	390,844,3	0
+4a7495f42bc6d9f311f28d0bf0e6f880	2025/02/16 13:02:44	/informace.htm	https://knihovna.pedf.cuni.cz/celetna.html	Mozilla/5.0 (iPhone; CPU iPhone OS 17_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/243.0.495136164 Mobile/15E148 Safari/604.1	390,844,3	0
+4a7495f42bc6d9f311f28d0bf0e6f880	2025/02/16 13:02:53	/provozni_doba.htm	https://knihovna.pedf.cuni.cz/informace.htm	Mozilla/5.0 (iPhone; CPU iPhone OS 17_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/243.0.495136164 Mobile/15E148 Safari/604.1	390,844,3	0
+c3d354a17154e3caa7b0778053166e94	2025/02/16 13:16:26	/index.html	https://knihovna.pedf.cuni.cz/index.html	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36	1806,1007,1	0
+72d181824c5baf533deab29e0ba5f1d0	2025/02/16 13:33:45	/		Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/112.0.0.0 Safari/537.36	800,600,1	153
+8f40f8d42094e314c562fe784a79aad1	2025/02/16 14:30:24	/clanky/pitter.html	https://www.bing.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0	1280,720,1.5	0
+213978fae67147984d9216e7dc79f536	2025/02/16 14:41:36	/		Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36	360,760,3	0
+8f40f8d42094e314c562fe784a79aad1	2025/02/16 15:04:39	/clanky/pitter.html	https://www.bing.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0	1280,720,1.5	0
