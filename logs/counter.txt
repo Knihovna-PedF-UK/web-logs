@@ -9596,3 +9596,23 @@ de9803a9417e72a6177d43765edafacf	2025/02/21 18:39:34	/odpisy.htm	https://knihovn
 de9803a9417e72a6177d43765edafacf	2025/02/21 18:47:36	/odpisy.htm	https://knihovna.pedf.cuni.cz/objednavani_liter.htm	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36	412,883,3.5	0
 a35fa1bcffa5c6944c3c7c585f3f1aa4	2025/02/21 19:00:18	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36	1920,1080,1	0
 a35fa1bcffa5c6944c3c7c585f3f1aa4	2025/02/21 19:00:25	/kvalifikacni_prace.htm	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36	1920,1080,1	0
+135b968d1e7a638c1a3d718cadb65588	2025/02/21 20:22:12	/clanky/pitter.html	https://www.google.cz/	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36	384,857,2.8125	0
+791e12cb07b42f0da0cabfc886be636c	2025/02/21 20:41:56	/	https://search.yahoo.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36	1536,864,1.25	0
+542aff513796aa06ab7cc8af97ae7342	2025/02/21 21:42:07	/	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36	1536,864,1.25	0
+44be031d2e2ced0943a3470908e9f002	2025/02/21 21:49:35	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36	1536,864,1.25	0
+bc5c1270380de7e2fcafd73da3260611	2025/02/21 22:41:37	/		Mozilla/5.0 (X11; Linux x86_64; rv:135.0) Gecko/20100101 Firefox/135.0	1920,1080,1	0
+bc5c1270380de7e2fcafd73da3260611	2025/02/21 22:41:43	/sluzby.htm	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (X11; Linux x86_64; rv:135.0) Gecko/20100101 Firefox/135.0	1920,1080,1	0
+bc5c1270380de7e2fcafd73da3260611	2025/02/21 22:41:46	/celetna.html	https://knihovna.pedf.cuni.cz/sluzby.htm	Mozilla/5.0 (X11; Linux x86_64; rv:135.0) Gecko/20100101 Firefox/135.0	1920,1080,1	0
+bc5c1270380de7e2fcafd73da3260611	2025/02/21 22:43:30	/celetna-en.html	https://knihovna.pedf.cuni.cz/celetna.html	Mozilla/5.0 (X11; Linux x86_64; rv:135.0) Gecko/20100101 Firefox/135.0	1920,1080,1	0
+bc5c1270380de7e2fcafd73da3260611	2025/02/21 22:47:28	/celetna-en.html	https://knihovna.pedf.cuni.cz/celetna.html	Mozilla/5.0 (X11; Linux x86_64; rv:135.0) Gecko/20100101 Firefox/135.0	1920,1080,1	0
+bc5c1270380de7e2fcafd73da3260611	2025/02/21 22:47:50	/celetna.html	https://knihovna.pedf.cuni.cz/celetna-en.html	Mozilla/5.0 (X11; Linux x86_64; rv:135.0) Gecko/20100101 Firefox/135.0	1920,1080,1	0
+fdead17c89dab5901e1c135ad5f59330	2025/02/21 22:49:57	/	https://www.google.com/	Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Mobile/15E148 Safari/604.1	393,852,3	0
+bc5c1270380de7e2fcafd73da3260611	2025/02/21 22:53:24	/celetna.html	https://knihovna.pedf.cuni.cz/celetna-en.html	Mozilla/5.0 (X11; Linux x86_64; rv:135.0) Gecko/20100101 Firefox/135.0	1920,1080,1	0
+bc5c1270380de7e2fcafd73da3260611	2025/02/21 22:53:34	/celetna-en.html	https://knihovna.pedf.cuni.cz/celetna.html	Mozilla/5.0 (X11; Linux x86_64; rv:135.0) Gecko/20100101 Firefox/135.0	1920,1080,1	0
+bc5c1270380de7e2fcafd73da3260611	2025/02/21 22:53:40	/about.html	https://knihovna.pedf.cuni.cz/celetna-en.html	Mozilla/5.0 (X11; Linux x86_64; rv:135.0) Gecko/20100101 Firefox/135.0	1920,1080,1	0
+44be031d2e2ced0943a3470908e9f002	2025/02/21 22:55:17	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36	1536,864,1.25	0
+208586726fee1a78729de7bd96ed6a45	2025/02/21 23:30:25	/inform_vzdelavani.htm	https://helpdesksis.pedf.cuni.cz/	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36	1440,900,2	0
+ade94bc7dbc6db5e4ae9b7a72fde2642	2025/02/22 04:04:57	/e-prezencka.html		Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/112.0.0.0 Safari/537.36	800,600,1	153
+1bb3c1837a978189b9b5064fe2626742	2025/02/22 06:07:24	/	https://www.google.com/	Mozilla/5.0 (Linux; Android 12; SAMSUNG SM-A125F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36	385,854,1.875	0
+d697f82c161e7542a8e2364c03b84df5	2025/02/22 06:24:13	/provozni_doba.htm		Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36	360,740,3	0
+b4aa66d5223cccc76feb0cca8dc270fd	2025/02/22 07:24:52	/		Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)	1600,1600,1	153
