@@ -14357,3 +14357,13 @@ ed9cf82ad7d9c5dea7681cccd9e67b49	2025/03/16 13:11:08	/index-en.html	https://pedf
 63e2a6b3cc581657da246e58529df529	2025/03/16 14:41:56	/	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36	1280,720,1.5	0
 63e2a6b3cc581657da246e58529df529	2025/03/16 14:42:02	/sluzby.htm	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36	1280,720,1.5	0
 0582d136a9bdd497d00b3790ae22818f	2025/03/16 14:57:21	/	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36	1536,864,1.25	0
+ebb3b6ba81c0d972dc2546f5f45a3407	2025/03/16 15:49:57	/	https://www.bing.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0	1536,864,1.25	0
+6a79dba0d82ed5e91a50c655a2558a00	2025/03/16 16:59:24	/inform_vzdelavani.htm	https://www.google.com/	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:136.0) Gecko/20100101 Firefox/136.0	1470,956,2	0
+6a79dba0d82ed5e91a50c655a2558a00	2025/03/16 17:01:23	/inform_vzdelavani.htm	https://www.google.com/	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:136.0) Gecko/20100101 Firefox/136.0	1470,956,2	0
+ad1443d9da5642306605b51d02591a92	2025/03/16 17:13:10	/	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36	1536,864,1.25	0
+0200df6cc35107db1c17f82f5e70a69e	2025/03/16 17:36:23	/vypujcni_protokol.html	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0	1536,864,1.25	0
+81a92d2bcc6a3a79025ed12807434be6	2025/03/16 17:45:29	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36	1920,1080,1	0
+ab510c92113dcec85e8f87c3adf85ef2	2025/03/16 18:18:05	/	https://pedf.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0	1536,864,1.25	0
+ab510c92113dcec85e8f87c3adf85ef2	2025/03/16 18:18:15	/	https://pedf.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0	1536,864,1.25	0
+89a9ecf720e215ac79296d119b1b52ec	2025/03/16 18:55:19	/	https://search.seznam.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36	1280,720,1.5	0
+62da573c3b80d99ae55cc7d70491c18d	2025/03/16 19:00:55	/catalogues.html		Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/112.0.0.0 Safari/537.36	800,600,1	153
