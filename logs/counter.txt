@@ -2314,3 +2314,14 @@ ad81a0ee9050dd9901f1640b3f21b56b	2026/01/17 13:58:34	/	https://www.google.com/	M
 2c396976a270caeffd5a4bc57f42372f	2026/01/17 14:44:14	/provozni_doba.htm	https://knihovna.pedf.cuni.cz/informace.htm	Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.1 Mobile/15E148 Safari/604.1 OPT/6.3.0	393,852,3	0
 1c70de51db6f3ba88c67022a826a5d8a	2026/01/17 15:11:17	/		Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36	407,904,3	0
 eb5595d3964b2450f29b6e3de8c8ea91	2026/01/17 15:15:28	/	https://www.google.com/	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36	393,873,2.75	0
+e16bd35f5d56b14d0c07b1d379084b3e	2026/01/17 15:29:49	/kontaktni_adresa.htm	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36	1280,1024,1	0
+00a36c8f4ea80a22d0a976040ee47a66	2026/01/17 15:57:36	/eiz.htm	https://www.google.com/	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36	360,780,3	0
+00a36c8f4ea80a22d0a976040ee47a66	2026/01/17 16:01:32	/dnnt.html	https://www.google.com/	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36	360,780,3	0
+379e6d2ab38c229c6494a96a91d754c9	2026/01/17 17:07:18	/archiv.html		Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15	1440,900,2	0
+78cb1067d25d3b8d4a1cce0de7f088a4	2026/01/17 17:24:15	/celetna.html		Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 PTST/260102.143750	1920,1200,1	0
+78cb1067d25d3b8d4a1cce0de7f088a4	2026/01/17 17:24:28	/celetna.html		Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 PTST/260102.143750	1920,1200,1	0
+78cb1067d25d3b8d4a1cce0de7f088a4	2026/01/17 17:24:34	/celetna.html		Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/143.0.0.0 Safari/537.36 PTST/260102.143750	800,600,1	0
+07c28e74f6c5698dc8c0cbc56c244962	2026/01/17 17:31:29	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36	1536,864,1.25	0
+936a8e8f1ee210a6e7d91f9d268eb22d	2026/01/17 17:32:56	/		Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.6312.86 Safari/537.36 BitSightBot/1.0	1080,1920,1	153
+936a8e8f1ee210a6e7d91f9d268eb22d	2026/01/17 17:33:02	/		Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.6312.86 Safari/537.36 BitSightBot/1.0	1080,1920,1	153
+ca2edc6edd7e7a27c16008438eaf4d75	2026/01/17 19:12:16	/	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36	1920,1080,1	0
