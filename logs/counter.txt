@@ -3734,3 +3734,20 @@ fdee8adeab52bd84688ecee2e6b368ba	2026/02/01 01:43:10	/studovna.html		Mozilla/5.0
 95df9211fbf301b5305d4d61a83aad84	2026/02/01 02:15:52	/opening.html		Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.3; +https://openai.com/gptbot)	800,600,1	153
 95df9211fbf301b5305d4d61a83aad84	2026/02/01 02:16:32	/celetna.html		Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.3; +https://openai.com/gptbot)	800,600,1	153
 1c672a42b9cb4b53f96670fbb4bd35dd	2026/02/01 07:41:05	/pruvodce.html		Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)	1600,1600,1	153
+5e14b701d7d02e80de7e17b625b52e2f	2026/02/01 08:55:40	/	https://pedf.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0	1366,768,1	0
+5e14b701d7d02e80de7e17b625b52e2f	2026/02/01 08:55:42	/biblio.html	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0	1366,768,1	0
+fdcb6854d397c441c701a90e7ba86113	2026/02/01 09:51:35	/	https://pedf.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0	1280,720,1.5	0
+fdcb6854d397c441c701a90e7ba86113	2026/02/01 09:51:42	/biblio.html	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0	1280,720,1.5	0
+0250350797e06d4bbf7d80f34eeb0a9b	2026/02/01 10:14:42	/		Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2220.1342 Mobile Safari/537.36	375,812,1	0
+e4bd407a0232382baa3a3f2fcb423bed	2026/02/01 10:19:48	/	https://www.google.com/	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36	1440,900,2	0
+75211b303b8258d0874ab9c0dddfa821	2026/02/01 10:25:07	/		Mozilla/5.0 (iPhone; CPU iPhone OS 26_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/145.0.7632.34 Mobile/15E148 Safari/604.1	393,852,3	0
+e4bd407a0232382baa3a3f2fcb423bed	2026/02/01 10:50:31	/	https://www.google.com/	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36	1440,900,2	0
+4b0088a98c7a0acaa35d482978f653c9	2026/02/01 11:15:15	/		Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36	384,832,2.8125	0
+b4298602a6d327da5d9cdd000db9d1fe	2026/02/01 12:06:02	/inform_vzdelavani.htm	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36	1536,960,1.25	0
+f128bc4bf68618a1945858b8840adc2b	2026/02/01 13:05:42	/vypujcni_protokol.html	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36	1536,864,1.25	0
+1b7587e209146e59d7226b56b9995b83	2026/02/01 13:06:01	/celetna.html	https://www.google.com/	Mozilla/5.0 (iPhone; CPU iPhone OS 18_0_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0.1 Mobile/15E148 Safari/604.1	390,844,3	0
+956870399ae0c5b5088db648dac0aec1	2026/02/01 14:17:52	/	https://pedf.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0	1536,864,1.25	0
+956870399ae0c5b5088db648dac0aec1	2026/02/01 14:18:16	/sluzby.htm	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0	1536,864,1.25	0
+956870399ae0c5b5088db648dac0aec1	2026/02/01 14:18:24	/informace.htm	https://knihovna.pedf.cuni.cz/sluzby.htm	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0	1536,864,1.25	0
+956870399ae0c5b5088db648dac0aec1	2026/02/01 14:18:30	/kontaktni_adresa.htm	https://knihovna.pedf.cuni.cz/informace.htm	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0	1536,864,1.25	0
+38b74468c0e334ea706925f7d35f922a	2026/02/01 14:56:03	/bookport.html	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36	2560,1440,1	0
