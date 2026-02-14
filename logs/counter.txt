@@ -5314,3 +5314,13 @@ cb5ea336886ca5e397874adfd66ccbc1	2026/02/13 14:00:53	/biblio.html	https://knihov
 32795a53c5d67714dd65bdb43552e62f	2026/02/13 17:26:50	/	https://www.google.com/	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36	393,851,2.75	0
 328a046822001bf6f4ddc3b2d2bdbd5f	2026/02/13 18:34:13	/clanky/pitter.html	https://www.google.com/	Mozilla/5.0 (Android 15; Mobile; rv:147.0) Gecko/147.0 Firefox/147.0	342,741,3.1578947368421053	0
 c99c7b9944e41e4d35b8a94762c7f7d0	2026/02/13 19:32:12	/updates.html		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.5249.119 Safari/537.36	1280,1200,1	0
+adb3d3c2ad8f6efecdd873ea662885d0	2026/02/13 20:25:09	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.5249.119 Safari/537.36	1280,1200,1	0
+b07c75ef7244297aa03cdbbb2bb4555b	2026/02/13 22:12:41	/inform_vzdelavani.htm	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36	1307,735,1.4700000286102295	0
+37e5ce5f50ec4a41de82cbd0b29d89fc	2026/02/13 22:22:43	/bookport.html	https://www.google.com/	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36	393,873,2.75	0
+deda868a1d7cc1abf6f31ce9d6fd62ae	2026/02/13 23:19:16	/celetna.html	https://cuni.cz/	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:147.0) Gecko/20100101 Firefox/147.0	1536,960,1.25	0
+17ba629ce96a711b60501249150ec238	2026/02/13 23:34:09	/index-en.html		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36	1280,1200,1	0
+5b5f5d643aa80d6c2905731c9ceb2ae4	2026/02/13 23:36:06	/cas_zrusene_2017.htm		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36	1280,1200,1	0
+0e9f6afd82e3d3586fa46be53d5577b0	2026/02/14 03:28:04	/catalogues.html		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36	1280,1200,1	0
+098520fe88d38ad191a79989e8085c41	2026/02/14 03:38:07	/index.html		Mozilla/5.0 (Linux; Android 5.0) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; Bytespider; spider-feedback@bytedance.com)	375,812,1	0
+aaa794e7d171502079b0dffcd65af54f	2026/02/14 04:27:42	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36	1280,1200,1	0
+7c23e3bbefaa86d452be66e8dd016ef8	2026/02/14 04:28:36	/archive-en.html		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36	1280,1200,1	0
