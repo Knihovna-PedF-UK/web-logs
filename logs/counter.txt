@@ -6166,3 +6166,16 @@ d445b4603813f4b33a3e20c09c359b2a	2026/02/20 14:48:59	/	https://www.google.com/	M
 93d6f037b23861d739cf2d233337527e	2026/02/20 14:56:54	/sluzby.htm	https://knihovna.pedf.cuni.cz/studovna.html	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0	1707,960,1.5	0
 93d6f037b23861d739cf2d233337527e	2026/02/20 14:57:03	/informace.htm	https://knihovna.pedf.cuni.cz/sluzby.htm	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0	1707,960,1.5	0
 93d6f037b23861d739cf2d233337527e	2026/02/20 14:57:08	/fotogalerie.html	https://knihovna.pedf.cuni.cz/informace.htm	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0	1707,960,1.5	0
+9da91e1e912a3c4b6a338d0318117c3c	2026/02/20 16:04:24	/	https://www.google.com/	Mozilla/5.0 (iPhone; CPU iPhone OS 26_2_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/144.0.7559.95 Mobile/15E148 Safari/604.1	428,926,3	0
+94bc0db5320f67f01740629b5a109d8c	2026/02/20 16:06:29	/	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0	1920,1080,1	0
+c89a6d4bc7c54ba705232099dd1ff626	2026/02/20 16:08:03	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36	3840,2160,1	0
+2a2f57f609cef6d91e4397314f26e584	2026/02/20 16:24:32	/		Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/29.0 Chrome/136.0.0.0 Mobile Safari/537.36	412,892,2.625	0
+df7bcc5fa2f36fd3894cc6df7cd68bfe	2026/02/20 17:53:15	/provozni_doba.htm	https://www.google.com/	Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Mobile/15E148 Safari/604.1	393,852,3	0
+386990d09863110c74c4f7e8ac9628cb	2026/02/20 18:00:30	/		Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)	1600,1600,1	153
+85a7508a1a9d47a66ecc964abf3f05a6	2026/02/20 18:02:38	/		Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)	1600,1600,1	153
+55554a3aaa79ae019fe869630bfd5807	2026/02/20 18:06:15	/informace.htm		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36	3840,2160,1	0
+ec60b095516d0db91c4a9a8802924219	2026/02/20 18:14:58	/inform_vzdelavani.htm	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36	1280,720,1.5	0
+b81174373705b448ded077ba9fb466f2	2026/02/20 18:35:55	/index-en.html		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36	3840,2160,1	0
+6e6a31befecb4660211ec624d14f7558	2026/02/20 19:13:32	/bookport.html	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36	1536,864,1.25	0
+5fe0d25511c167776400d1b5f5aa97b0	2026/02/20 19:29:20	/cas_zrusene_2017.htm		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36	1280,1200,1	0
+d5a458010c9927473572c07df29eb052	2026/02/20 19:29:22	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36	1280,1200,1	0
