@@ -9992,3 +9992,97 @@ fbedd36b31ceb3c2e5cfa8c73a9d8ad5	2026/03/19 06:42:50	/		Mozilla/5.0 (Linux; Andr
 1ecf67022af62870a79d66ba4f3a06cc	2026/03/19 07:26:54	/fraus.html		Mozilla/5.0 (Linux; Android 5.0) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; Bytespider; spider-feedback@bytedance.com)	375,812,1	0
 b0b5885567f3a6b2554f28d3a2f8baac	2026/03/19 07:55:23	/		Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36	360,800,3	0
 4f718c84e63b54d9a487a74e9aa6342f	2026/03/19 07:59:11	/	https://pedf.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0	1920,1080,1	0
+c9604383b5f87e0cba435fd078eb61d9	2026/03/19 08:16:57	/		Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Mobile/15E148 Safari/604.1	390,844,3	0
+0738361454d5491e9a9eeaf0217fe0db	2026/03/19 08:46:24	/e-prezencka.html		Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.6240.1111 Mobile Safari/537.36	375,812,1	0
+8d137fda11202f57aa712fed914b22b1	2026/03/19 08:59:57	/bookport.html	https://dl1.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0	1440,900,2	0
+debf495a29123bfedcf5f0d7faab6e5b	2026/03/19 09:49:32	/index.html		Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0	1920,1080,1	0
+debf495a29123bfedcf5f0d7faab6e5b	2026/03/19 09:50:17	/index.html		Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0	1232,834,3	0
+debf495a29123bfedcf5f0d7faab6e5b	2026/03/19 09:50:45	/index.html		Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0	1920,1080,1	0
+debf495a29123bfedcf5f0d7faab6e5b	2026/03/19 09:52:42	/index.html		Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0	1920,1080,1	0
+debf495a29123bfedcf5f0d7faab6e5b	2026/03/19 09:53:04	/index.html		Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0	1398,827,3	0
+debf495a29123bfedcf5f0d7faab6e5b	2026/03/19 10:01:39	/index.html		Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0	1372,961,3	0
+da45b404b5b1c23419126a7b14060155	2026/03/19 10:01:46	/	https://www.google.com/	Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Mobile/15E148 Safari/604.1	402,874,3	0
+1b83778a6ee2bdabaec1863f10b13b10	2026/03/19 10:11:14	/celetna.html	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0	1280,800,1.5	0
+6d5a96671fc6f3a52623bb4bdab50a74	2026/03/19 10:13:59	/		Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.5795.1574 Mobile Safari/537.36	375,812,1	0
+debf495a29123bfedcf5f0d7faab6e5b	2026/03/19 10:18:19	/index.html		Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0	1372,961,3	0
+debf495a29123bfedcf5f0d7faab6e5b	2026/03/19 10:22:35	/index.html	http://localhost:8000/index.html	Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0	1920,1080,1	0
+debf495a29123bfedcf5f0d7faab6e5b	2026/03/19 10:23:23	/index.html	http://localhost:8000/index.html	Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0	1920,1080,1	0
+4f718c84e63b54d9a487a74e9aa6342f	2026/03/19 10:27:57	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36	1920,1080,1	0
+4f718c84e63b54d9a487a74e9aa6342f	2026/03/19 10:28:03	/prostory.html	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36	1920,1080,1	0
+4f718c84e63b54d9a487a74e9aa6342f	2026/03/19 10:28:06	/sbirky.html	https://knihovna.pedf.cuni.cz/prostory.html	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36	1920,1080,1	0
+4f718c84e63b54d9a487a74e9aa6342f	2026/03/19 10:28:10	/sluzby.htm	https://knihovna.pedf.cuni.cz/sbirky.html	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36	1920,1080,1	0
+4f718c84e63b54d9a487a74e9aa6342f	2026/03/19 10:28:38	/zpozdne.html	https://knihovna.pedf.cuni.cz/sluzby.htm	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36	1920,1080,1	0
+debf495a29123bfedcf5f0d7faab6e5b	2026/03/19 10:39:20	/index.html	http://localhost:8000/index.html	Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0	1920,1080,1	0
+debf495a29123bfedcf5f0d7faab6e5b	2026/03/19 10:39:51	/index.html	http://localhost:8000/index.html	Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0	1920,1080,1	0
+debf495a29123bfedcf5f0d7faab6e5b	2026/03/19 10:39:57	/odborne_prace.html	http://localhost:8000/index.html	Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0	1920,1080,1	0
+debf495a29123bfedcf5f0d7faab6e5b	2026/03/19 10:39:59	/index.html	http://localhost:8000/index.html	Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0	1920,1080,1	0
+debf495a29123bfedcf5f0d7faab6e5b	2026/03/19 10:43:35	/index.html	http://localhost:8000/index.html	Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0	1920,1080,1	0
+debf495a29123bfedcf5f0d7faab6e5b	2026/03/19 10:43:45	/index.html	http://localhost:8000/index.html	Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0	1920,1080,1	0
+debf495a29123bfedcf5f0d7faab6e5b	2026/03/19 10:43:47	/index.html	http://localhost:8000/index.html	Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0	1920,1080,1	0
+debf495a29123bfedcf5f0d7faab6e5b	2026/03/19 10:43:48	/index.html	http://localhost:8000/index.html	Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0	1920,1080,1	0
+debf495a29123bfedcf5f0d7faab6e5b	2026/03/19 10:43:49	/index.html	http://localhost:8000/index.html	Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0	1920,1080,1	0
+debf495a29123bfedcf5f0d7faab6e5b	2026/03/19 10:43:50	/index.html	http://localhost:8000/index.html	Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0	1920,1080,1	0
+debf495a29123bfedcf5f0d7faab6e5b	2026/03/19 10:44:08	/index.html	http://localhost:8000/index.html	Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0	1920,1080,1	0
+debf495a29123bfedcf5f0d7faab6e5b	2026/03/19 10:48:06	/		Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0	1920,1080,1	0
+2288937722b08d21c8ada1696a80a4ad	2026/03/19 10:49:20	/		Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36	360,800,3	0
+86ea8e4d32923f109bb574ac2b7398da	2026/03/19 10:53:18	/celetna.html	https://www.google.com/	Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Mobile/15E148 Safari/604.1	393,852,3	0
+bb2b6c3addf3683abbf27e930eac05c6	2026/03/19 10:55:02	/	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36	1536,864,1.25	0
+f21764768f31dc99ac4ce91052400df1	2026/03/19 11:00:21	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36	1536,864,1.25	0
+debf495a29123bfedcf5f0d7faab6e5b	2026/03/19 11:05:32	/index.html	http://localhost:8000/index.html	Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0	1920,1080,1	0
+debf495a29123bfedcf5f0d7faab6e5b	2026/03/19 11:06:19	/index.html	http://localhost:8000/index.html	Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0	1920,1080,1	0
+debf495a29123bfedcf5f0d7faab6e5b	2026/03/19 11:07:20	/index.html	http://localhost:8000/index.html	Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0	1920,1080,1	0
+debf495a29123bfedcf5f0d7faab6e5b	2026/03/19 11:08:27	/index.html	http://localhost:8000/index.html	Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0	1920,1080,1	0
+debf495a29123bfedcf5f0d7faab6e5b	2026/03/19 11:10:32	/index.html	http://localhost:8000/index.html	Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0	1920,1080,1	0
+debf495a29123bfedcf5f0d7faab6e5b	2026/03/19 11:10:34	/index.html	http://localhost:8000/index.html	Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0	1920,1080,1	0
+debf495a29123bfedcf5f0d7faab6e5b	2026/03/19 11:11:00	/index.html	http://localhost:8000/index.html	Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0	1920,1080,1	0
+debf495a29123bfedcf5f0d7faab6e5b	2026/03/19 11:14:10	/index.html	http://localhost:8000/index.html	Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0	1920,1080,1	0
+debf495a29123bfedcf5f0d7faab6e5b	2026/03/19 11:15:11	/index.html	http://localhost:8000/index.html	Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0	1920,1080,1	0
+debf495a29123bfedcf5f0d7faab6e5b	2026/03/19 11:16:26	/index.html	http://localhost:8000/index.html	Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0	1920,1080,1	0
+debf495a29123bfedcf5f0d7faab6e5b	2026/03/19 11:17:37	/index.html	http://localhost:8000/index.html	Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0	1920,1080,1	0
+debf495a29123bfedcf5f0d7faab6e5b	2026/03/19 11:18:28	/index.html	http://localhost:8000/index.html	Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0	1920,1080,1	0
+debf495a29123bfedcf5f0d7faab6e5b	2026/03/19 11:18:52	/index.html	http://localhost:8000/index.html	Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0	1920,1080,1	0
+debf495a29123bfedcf5f0d7faab6e5b	2026/03/19 11:18:54	/index.html	http://localhost:8000/index.html	Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0	1920,1080,1	0
+debf495a29123bfedcf5f0d7faab6e5b	2026/03/19 11:19:35	/index.html	http://localhost:8000/index.html	Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0	1920,1080,1	0
+debf495a29123bfedcf5f0d7faab6e5b	2026/03/19 11:19:42	/index-en.html	http://localhost:8000/index.html	Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0	1920,1080,1	0
+debf495a29123bfedcf5f0d7faab6e5b	2026/03/19 11:20:15	/index.html	http://localhost:8000/index-en.html	Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0	1920,1080,1	0
+debf495a29123bfedcf5f0d7faab6e5b	2026/03/19 11:45:46	/		Mozilla/5.0 (Android 16; Mobile; rv:148.0) Gecko/148.0 Firefox/148.0	360,808,3	0
+debf495a29123bfedcf5f0d7faab6e5b	2026/03/19 11:45:53	/prostory.html	https://knihovna-pedf-uk.github.io/	Mozilla/5.0 (Android 16; Mobile; rv:148.0) Gecko/148.0 Firefox/148.0	360,808,3	0
+debf495a29123bfedcf5f0d7faab6e5b	2026/03/19 11:46:16	/index.html	https://knihovna-pedf-uk.github.io/prostory.html	Mozilla/5.0 (Android 16; Mobile; rv:148.0) Gecko/148.0 Firefox/148.0	360,808,3	0
+debf495a29123bfedcf5f0d7faab6e5b	2026/03/19 11:46:41	/index.html	https://knihovna-pedf-uk.github.io/prostory.html	Mozilla/5.0 (Android 16; Mobile; rv:148.0) Gecko/148.0 Firefox/148.0	360,808,3	0
+debf495a29123bfedcf5f0d7faab6e5b	2026/03/19 11:47:33	/index.html	http://localhost:8000/index-en.html	Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0	1920,1080,1	0
+ab8590121e405db2c8f1d3bd2b3b17b9	2026/03/19 11:48:40	/opening.html	https://www.google.com/	Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Mobile/15E148 Safari/604.1	414,896,2	0
+ab8590121e405db2c8f1d3bd2b3b17b9	2026/03/19 11:48:49	/reference-desk.html	https://knihovna.pedf.cuni.cz/opening.html	Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Mobile/15E148 Safari/604.1	414,896,2	0
+ab8590121e405db2c8f1d3bd2b3b17b9	2026/03/19 11:48:57	/	https://www.google.com/	Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Mobile/15E148 Safari/604.1	414,896,2	0
+ab8590121e405db2c8f1d3bd2b3b17b9	2026/03/19 11:49:06	/provozni_doba.htm	https://www.google.com/	Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Mobile/15E148 Safari/604.1	414,896,2	0
+ab8590121e405db2c8f1d3bd2b3b17b9	2026/03/19 11:49:12	/vypujcni_protokol.html	https://knihovna.pedf.cuni.cz/provozni_doba.htm	Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Mobile/15E148 Safari/604.1	414,896,2	0
+debf495a29123bfedcf5f0d7faab6e5b	2026/03/19 11:49:18	/index.html	http://localhost:8000/index-en.html	Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0	1920,1080,1	0
+debf495a29123bfedcf5f0d7faab6e5b	2026/03/19 11:49:45	/index.html	http://localhost:8000/index-en.html	Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0	1920,1080,1	0
+debf495a29123bfedcf5f0d7faab6e5b	2026/03/19 11:49:46	/index.html	http://localhost:8000/index-en.html	Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0	1920,1080,1	0
+debf495a29123bfedcf5f0d7faab6e5b	2026/03/19 11:51:06	/index.html	http://localhost:8000/index-en.html	Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0	1920,1080,1	0
+debf495a29123bfedcf5f0d7faab6e5b	2026/03/19 11:59:59	/index.html	http://localhost:8000/index-en.html	Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0	1920,1080,1	0
+32fd0caa03b218a4fdff40d737f81f45	2026/03/19 12:07:38	/	https://www.google.com/	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15	1440,900,2	0
+a148ba8bd1ca655054a47fc78ae7e1cc	2026/03/19 12:30:02	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36	1600,900,1	0
+6423eb1785af919e8d9b772e933a4858	2026/03/19 12:45:48	/	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36	1536,864,1.25	0
+a43af694b712cbefb824acdd61aab8b9	2026/03/19 13:07:32	/studovna.html	https://www.google.com/	Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Mobile/15E148 Safari/604.1	402,874,3	0
+dde729df5506972157d41f56a3b7cc3d	2026/03/19 13:08:36	/	https://www.google.com/	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36	384,832,2.8125	0
+6b1e080a673e69625f5ec3d15256e566	2026/03/19 13:08:51	/biblio-afiliace.html	https://pedf.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0	1920,1080,1	0
+dde729df5506972157d41f56a3b7cc3d	2026/03/19 13:08:59	/informace.htm	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36	384,832,2.8125	0
+dde729df5506972157d41f56a3b7cc3d	2026/03/19 13:09:25	/kontaktni_adresa.htm	https://knihovna.pedf.cuni.cz/informace.htm	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36	384,832,2.8125	0
+9e88293fc6c036f04802a91e670fa266	2026/03/19 13:17:29	/bookport.html	https://www.google.com/	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36	407,904,3	0
+4f718c84e63b54d9a487a74e9aa6342f	2026/03/19 13:29:18	/	https://pedf.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0	1920,1080,1	0
+4f718c84e63b54d9a487a74e9aa6342f	2026/03/19 13:30:08	/	https://pedf.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0	1920,1080,1	0
+debf495a29123bfedcf5f0d7faab6e5b	2026/03/19 13:32:46	/index.html	http://localhost:8000/index-en.html	Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0	1920,1080,1	0
+debf495a29123bfedcf5f0d7faab6e5b	2026/03/19 13:33:19	/index.html	http://localhost:8000/index-en.html	Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0	1920,1080,1	0
+debf495a29123bfedcf5f0d7faab6e5b	2026/03/19 13:33:21	/index.html	http://localhost:8000/index-en.html	Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0	1920,1080,1	0
+c3d354a17154e3caa7b0778053166e94	2026/03/19 13:34:20	/	https://search.brave.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36	2560,1440,1	0
+c3d354a17154e3caa7b0778053166e94	2026/03/19 13:34:54	/prostory.html	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36	2560,1440,1	0
+6423eb1785af919e8d9b772e933a4858	2026/03/19 13:36:35	/	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36	1536,864,1.25	0
+5757dd3d50c498aa8f1d1b1859ac5cd8	2026/03/19 13:43:36	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0	1920,1080,1	0
+5757dd3d50c498aa8f1d1b1859ac5cd8	2026/03/19 13:44:12	/informace.htm	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0	1920,1080,1	0
+5757dd3d50c498aa8f1d1b1859ac5cd8	2026/03/19 13:44:15	/kontaktni_adresa.htm	https://knihovna.pedf.cuni.cz/informace.htm	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0	1920,1080,1	0
+1f450d5a794da4b4b72505ac8c313a9b	2026/03/19 13:46:02	/	https://www.google.com/	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36	393,873,2.75	0
+1f450d5a794da4b4b72505ac8c313a9b	2026/03/19 13:46:17	/celetna.html	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36	393,873,2.75	0
+9b001ed6ddea4bd29d59570ada5e8a6c	2026/03/19 13:56:33	/bookport.html	https://www.google.com/	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Safari/605.1.15	820,1180,2	0
+debf495a29123bfedcf5f0d7faab6e5b	2026/03/19 14:31:30	/index.html	http://localhost:8000/index-en.html	Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0	1920,1080,1	0
+debf495a29123bfedcf5f0d7faab6e5b	2026/03/19 14:32:11	/index.html	http://localhost:8000/index-en.html	Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0	1920,1080,1	0
+5f1910de8ec5c6da4034615dd5508876	2026/03/19 15:47:37	/	https://www.google.com/	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36	393,873,2.75	0
