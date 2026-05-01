@@ -15386,3 +15386,20 @@ ce3542d698fde1bbf36f034f894ff883	2026/05/01 07:35:16			Mozilla/5.0 (Macintosh; I
 c7dfe21ea0eb8d2a4a0e43bb2694134e	2026/05/01 08:51:04	/celetna.html	https://www.google.com/	Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Mobile/15E148 Safari/604.1	390,844,3	0
 9ddff0cfce39fd2fddf4783d718ae649	2026/05/01 08:51:10	/	https://www.google.com/	Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Mobile/15E148 Safari/604.1	390,844,3	0
 85f65413f1866bbeda7cdbbde734c1a7	2026/05/01 09:27:40	/	https://www.bing.com/	Mozilla/5.0 (Linux; Android 16; WXxBrE6Mib; U; cs) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7204.63 Mobile Safari/537.36	384,832,2.8125	0
+7838a9c64c1fbe65c64c482f942f081a	2026/05/01 10:48:10	/opening.html		Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.1026.1119 Safari/537.36	375,812,1	0
+6ea6d1d4e4469cd1457c8737af96ad9a	2026/05/01 10:50:15	/		Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36	412,919,2.625	0
+d2f136dfa7e6728e8ce200134b806573	2026/05/01 11:02:56	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36	1920,1080,1	0
+387e1e0fb882cfe63960f8586849891d	2026/05/01 11:03:14	/celetna.html		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36	1920,1080,1	0
+77e3b193f20e74985a8507f282356710	2026/05/01 11:11:26	/	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0	1536,864,1.25	0
+737b7bd4ee6e80fb60c1feb22706694a	2026/05/01 12:28:47	/	https://www.google.com/	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36	384,832,2.8125	0
+6734879de4f6fa6cc1ccd8f5410b71a8	2026/05/01 13:14:38	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0	1760,990,1.0909090909090908	0
+9fa8863acb11bd92841fdf1f47c6027c	2026/05/01 13:41:39	/	https://www.google.com/	Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1	393,852,3	0
+912c4eadbbb539e8ef020a72e81bd66c	2026/05/01 14:09:29	/bookport.html	https://www.perplexity.ai/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36	2560,1440,1	0
+44be031d2e2ced0943a3470908e9f002	2026/05/01 14:25:03	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36	1536,864,1.25	0
+cdb27ec7d5b7dc5605bc8953c807c3c0	2026/05/01 14:27:14	/	https://www.google.com/	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36	393,873,2.75	0
+cdb27ec7d5b7dc5605bc8953c807c3c0	2026/05/01 14:28:20	/	https://www.google.com/	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36	393,873,2.75	0
+3a75d8e570ba5434239aa7506c2902cd	2026/05/01 15:14:58	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36	1280,1024,1	0
+3a75d8e570ba5434239aa7506c2902cd	2026/05/01 15:15:05	/sbirky.html	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36	1280,1024,1	0
+3a75d8e570ba5434239aa7506c2902cd	2026/05/01 15:15:07	/objednavani_liter.htm	https://knihovna.pedf.cuni.cz/sbirky.html	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36	1280,1024,1	0
+d06de4362bfb0599f6b3453097add403	2026/05/01 15:29:07	/bookport.html		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36	1536,864,1.25	0
+025ae831c093a459b557543511def39d	2026/05/01 16:13:15	/fraus.html	https://www.ecosia.org/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0	1280,720,1.5	0
