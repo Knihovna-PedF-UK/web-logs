@@ -15512,3 +15512,9 @@ f383c12cd62404407b02f1805f34de96	2026/05/02 15:54:26	/archiv.html		Mozilla/5.0 (
 c6370a6d71e2bf7aa7803a9e88ace492	2026/05/02 16:23:27	/		Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/138.0.0.0 Safari/537.36	800,600,1	153
 2f8e853c79f23bdd1e95d16dc1dc7ba1	2026/05/02 16:51:35	/adresar.htm		Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Mobile/15E148 Safari/604.1	375,667,2	0
 2f8e853c79f23bdd1e95d16dc1dc7ba1	2026/05/02 16:51:36	/kontaktni_adresa.htm		Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Mobile/15E148 Safari/604.1	375,667,2	0
+166fadc4861d23f5a66bae098c8507f2	2026/05/02 16:59:01	/odborne_prace.html	https://knihovna-pedf-uk.github.io/sluzby.htm	Mozilla/5.0 (Android 16; Mobile; rv:150.0) Gecko/150.0 Firefox/150.0	360,808,3	0
+24849ca4ee5d52098a8e86fc67b0bc11	2026/05/02 18:47:54	/inform_vzdelavani.htm	https://www.google.com/	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36	412,892,2.625	0
+07d62f36db976b22e34974edd26475b9	2026/05/02 19:09:06	/provozni_doba.htm	https://www.google.com/	Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Mobile/15E148 Safari/604.1	414,896,2	0
+c0359deaf70e296c4762cb1d7b1f2212	2026/05/02 20:20:44	/	https://pedf.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0	1536,864,1.25	0
+c0359deaf70e296c4762cb1d7b1f2212	2026/05/02 20:20:56	/prostory.html	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0	1536,864,1.25	0
+15a7649f0143d6000583281b0df124ec	2026/05/02 20:37:55	/eiz-katedry.html		Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.2435.1092 Safari/537.36	375,812,1	0
