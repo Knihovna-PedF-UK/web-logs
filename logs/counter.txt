@@ -17979,3 +17979,9 @@ ed9cf82ad7d9c5dea7681cccd9e67b49	2026/05/21 13:58:04	/provozni_doba.htm	https://
 3f5d3de7974b8270b6a7030b7b7c477c	2026/05/21 17:45:25	/clanky/pitter.html	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36	1536,864,1.25	0
 4f718c84e63b54d9a487a74e9aa6342f	2026/05/21 17:47:00	/index.html	http://localhost:8000/biblio.html	Mozilla/5.0 (X11; Linux x86_64; rv:150.0) Gecko/20100101 Firefox/150.0	1920,1080,1	0
 d53aea2255007a26667d1b2a71edd0e1	2026/05/21 18:14:30	/celetna.html	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36	1920,1080,1	0
+4f718c84e63b54d9a487a74e9aa6342f	2026/05/21 18:59:29	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0	2400,1350,0.8	0
+539bde3723a5c4c61dc354f274c78a5e	2026/05/21 19:24:29	/handi.htm		Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36	1920,1080,1	0
+0c8d63c8c06e73b138965a506ff8eacc	2026/05/21 19:26:45	/handi.htm		Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36	1920,1080,1	0
+60090a947e731071e9078cbcc6094da3	2026/05/21 20:34:26	/		Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/116.0.5845.82 Safari/537.36	1685,980,1	153
+3be2a70c8584be5313fb8ee1e9952701	2026/05/21 20:40:57	/?utm_source=mapy.com&utm_medium=ppd&utm_campaign=firmy.cz-421218		Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36	412,915,2.625	0
+6734879de4f6fa6cc1ccd8f5410b71a8	2026/05/21 21:28:54	/		Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36	384,857,2.8125	0
