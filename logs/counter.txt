@@ -18122,3 +18122,9 @@ a8908a6236a60ed7f28adaefee62f4af	2026/05/23 16:02:33	/		Mozilla/5.0 (Macintosh; 
 823bc5dc30c88747321caf390751d6ef	2026/05/23 16:30:36	/		Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)	800,600,1	153
 8de46ec38039418b5fd097ada94cac0c	2026/05/23 17:01:06	/		Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; +https://openai.com/searchbot	800,600,1	153
 823bc5dc30c88747321caf390751d6ef	2026/05/23 17:01:07	/		Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)	800,600,1	153
+823bc5dc30c88747321caf390751d6ef	2026/05/23 17:33:10	/		Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)	800,600,1	153
+2aeac499c35c675d761df51cad6a2ed6	2026/05/23 18:03:40	/inform_vzdelavani.htm		Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)	1600,1600,1	153
+b1525883fe668b8aa4dd6935ee9a0da7	2026/05/23 18:19:15	/	https://www.google.com/	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Safari/605.1.15	820,1180,2	0
+a2523858d05fc1b553353a480de24c44	2026/05/23 18:34:38	/	https://www.bing.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0	1280,800,2	0
+145d7c2eb9e325c328d938a71318c1fb	2026/05/23 20:05:17	/clanky/pitter.html	https://www.google.com/	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36	375,813,2.8812501430511475	0
+33633b4ec0b502c67b4662ddbeee3641	2026/05/23 20:15:23	/		Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36	384,854,2.8125	0
