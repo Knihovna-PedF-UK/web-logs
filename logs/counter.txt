@@ -18128,3 +18128,18 @@ b1525883fe668b8aa4dd6935ee9a0da7	2026/05/23 18:19:15	/	https://www.google.com/	M
 a2523858d05fc1b553353a480de24c44	2026/05/23 18:34:38	/	https://www.bing.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0	1280,800,2	0
 145d7c2eb9e325c328d938a71318c1fb	2026/05/23 20:05:17	/clanky/pitter.html	https://www.google.com/	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36	375,813,2.8812501430511475	0
 33633b4ec0b502c67b4662ddbeee3641	2026/05/23 20:15:23	/		Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36	384,854,2.8125	0
+2eb4149c13f0bca672226733b9f083ba	2026/05/23 21:24:07	/	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36	1490,931,1.375	0
+e7a9132c3b5b2b1a65eb6e6c04f2bc92	2026/05/23 21:40:24	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0	1536,864,1.25	0
+e7a9132c3b5b2b1a65eb6e6c04f2bc92	2026/05/23 21:40:26	/biblio.html	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0	1536,864,1.25	0
+d1f44702173abaa6f772d05a415206fd	2026/05/23 22:03:12	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36	1280,1200,1	0
+041bf0030e34caa867b4ec6cbf94df6b	2026/05/24 00:41:09	/		Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15	810,1080,2	0
+ba0818da5f84574d9921317752d2ecd9	2026/05/24 02:03:37	/inform_vzdelavani.htm		Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)	1600,1600,1	153
+241327d556a9206e81374d47156ac246	2026/05/24 03:05:17	/		Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.6312.86 Safari/537.36 BitSightBot/1.0	1080,1920,1	153
+241327d556a9206e81374d47156ac246	2026/05/24 03:05:22	/		Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.6312.86 Safari/537.36 BitSightBot/1.0	1080,1920,1	153
+b1525883fe668b8aa4dd6935ee9a0da7	2026/05/24 08:56:20	/	https://www.bing.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0	1280,720,1.5	0
+e88fd98bfbebd77bd1f96eb96579b883	2026/05/24 09:36:59	/	https://pedf.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0	1366,768,1	0
+e88fd98bfbebd77bd1f96eb96579b883	2026/05/24 09:37:02	/biblio.html	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0	1366,768,1	0
+10395a61b0b3cea8bf88933c7375b7bf	2026/05/24 09:48:23	/kvalifikacni_prace.htm		Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.4206.1529 Safari/537.36	375,812,1	0
+2881df0774f54c5b833cd812f2cbf0d0	2026/05/24 09:49:41	/kvalifikacni_prace.htm		Mozilla/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.0.0 Safari/537.36	375,812,1	0
+7570c6e80eda8ab462de1717b00ed2ab	2026/05/24 10:03:27	/inform_vzdelavani.htm		Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)	1600,1600,1	153
+70b473c4346f03b08341a8fc7234e89e	2026/05/24 10:17:08	/		Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15	810,1080,2	0
