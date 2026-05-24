@@ -18143,3 +18143,10 @@ e88fd98bfbebd77bd1f96eb96579b883	2026/05/24 09:37:02	/biblio.html	https://knihov
 2881df0774f54c5b833cd812f2cbf0d0	2026/05/24 09:49:41	/kvalifikacni_prace.htm		Mozilla/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.0.0 Safari/537.36	375,812,1	0
 7570c6e80eda8ab462de1717b00ed2ab	2026/05/24 10:03:27	/inform_vzdelavani.htm		Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)	1600,1600,1	153
 70b473c4346f03b08341a8fc7234e89e	2026/05/24 10:17:08	/		Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15	810,1080,2	0
+9b3354fc6819834bf19011ef5f502a06	2026/05/24 10:42:38	/		Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36	393,876,2.75	0
+9b3354fc6819834bf19011ef5f502a06	2026/05/24 10:42:44	/biblio.html	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36	393,876,2.75	0
+17a492f53608bda755b76a4b8ef76f68	2026/05/24 10:42:46	/		Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.9000.1442 Safari/537.36	375,812,1	0
+ab8590121e405db2c8f1d3bd2b3b17b9	2026/05/24 12:06:33	/	https://www.google.com/	Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Mobile/15E148 Safari/604.1	402,874,3	0
+382c5232756a5db22c15aca244e0719c	2026/05/24 12:40:53	/archiv.html	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36	1490,931,1.375	0
+6035395b6f395bd43a8f2d2513046040	2026/05/24 14:50:53	/		Mozilla/5.0 (iPhone; CPU iPhone OS 14_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Mobile/15E148 Safari/604.1	390,844,3	0
+ed9cf82ad7d9c5dea7681cccd9e67b49	2026/05/24 16:28:51	/fraus.html	https://www.google.com/	Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Mobile/15E148 Safari/604.1	375,812,3	0
