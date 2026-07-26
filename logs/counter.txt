@@ -26594,3 +26594,9 @@ d0fee437167b58c542e21560ce08ea21	2026/07/25 19:20:42	/hledat.html	https://knihov
 d0fee437167b58c542e21560ce08ea21	2026/07/25 19:21:36	/	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36	1280,720,1.5	0
 7efe8e251180d573c427bc8937775f68	2026/07/25 20:10:00	/	https://www.google.com/	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36	393,873,2.75	0
 3de6f15b51ce238b8cc9b8f3b9d95d38	2026/07/25 20:40:50	/celetna.html	https://cuni.cz/	Mozilla/5.0 (iPhone; CPU iPhone OS 18_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/146.0.7680.151 Mobile/15E148 Safari/604.1	375,812,2	0
+233c2ab5f11f989f269199b837ab4acf	2026/07/25 21:57:37	/	https://www.google.com/	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36	360,780,3	0
+c354d6fea93fe271010804728ead4f56	2026/07/26 01:19:08	/inform_vzdelavani.htm		Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)	1600,1600,1	153
+0d408aa8ee1ca5e33fc75762079f1d73	2026/07/26 01:23:27	/e-prezencka.html		Mozilla/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.0.0 Safari/537.36	375,812,1	0
+21eb93398f1b292e8ccc3c0228106f12	2026/07/26 02:34:05	/digitalizovanedokumenty.html		Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.7904.1264 Safari/537.36	375,812,1	0
+6903e77c59f5a092d8e3029161e36709	2026/07/26 06:56:44	/		Mozilla/5.0 (iPhone; CPU iPhone OS 18_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Mobile/15E148 Safari/604.1	1920,1080,1	0
+b9fc6f90c10e44720640f831d8432134	2026/07/26 09:21:35	/inform_vzdelavani.htm		Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)	1600,1600,1	153
