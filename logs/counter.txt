@@ -26600,3 +26600,10 @@ c354d6fea93fe271010804728ead4f56	2026/07/26 01:19:08	/inform_vzdelavani.htm		Moz
 21eb93398f1b292e8ccc3c0228106f12	2026/07/26 02:34:05	/digitalizovanedokumenty.html		Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.7904.1264 Safari/537.36	375,812,1	0
 6903e77c59f5a092d8e3029161e36709	2026/07/26 06:56:44	/		Mozilla/5.0 (iPhone; CPU iPhone OS 18_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Mobile/15E148 Safari/604.1	1920,1080,1	0
 b9fc6f90c10e44720640f831d8432134	2026/07/26 09:21:35	/inform_vzdelavani.htm		Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)	1600,1600,1	153
+03b8b501370831659148cc0e8bee4599	2026/07/26 11:01:02	/		Mozilla/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.0.0 Safari/537.36	375,812,1	0
+9b70b66ab1c8c8bf12b9d859e86ecc19	2026/07/26 11:11:37	/provozni_doba.htm	https://www.google.com/	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36	360,800,3	0
+9b70b66ab1c8c8bf12b9d859e86ecc19	2026/07/26 11:11:53	/	https://www.google.com/	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36	360,800,3	0
+a514cc9daa25987719796757e4cfedb2	2026/07/26 12:10:20	/	https://pedf.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0	1280,720,1.5	0
+7c560bb64382079a6a1f557565d5dfcb	2026/07/26 12:41:59	/		Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Safari/605.1.15	1470,956,2	0
+3f5c0e3156a4617ff99d1c784168b468	2026/07/26 14:44:20	/provozni_doba.htm	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36	1920,1080,1	0
+154dea5070dba3d495a820e6b57c1ae7	2026/07/26 16:23:13	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36	1536,864,1.25	0
