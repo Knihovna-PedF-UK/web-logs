@@ -27093,3 +27093,10 @@ eddd6dc45455e2c461bcc4cf402aef39	2026/08/01 07:31:18	//special-needs.html		Mozil
 8a543e14cab1198c7fe5caf2ed5f0160	2026/08/01 09:42:33	/sluzby.htm	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15	1440,900,2	0
 8a543e14cab1198c7fe5caf2ed5f0160	2026/08/01 09:42:36	/index.html	https://knihovna.pedf.cuni.cz/sluzby.htm	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15	1440,900,2	0
 8a543e14cab1198c7fe5caf2ed5f0160	2026/08/01 09:48:16	/	https://www.google.com/	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15	1440,900,2	0
+bd861e856a43150977331bd9afb88b3d	2026/08/01 10:31:16	/inform_vzdelavani.htm		Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)	1600,1600,1	153
+d72458c2d751b550f313f1bb216792ec	2026/08/01 10:46:18	/		Mozilla/5.0 (compatible; Bytespider; https://bytedance.sg.larkoffice.com/docx/K5bxdypulop3IIxrJb0lOjLVgFe) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.0.0 Safari/537.36	375,812,1	0
+2282eee85da7fac3d27eee2ecd6a9f34	2026/08/01 11:12:32	/index.html	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36	1920,1080,1	0
+387e1e0fb882cfe63960f8586849891d	2026/08/01 11:21:46	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36	1920,1080,1	0
+f9a8625022f8bb9e42912651a379322e	2026/08/01 11:34:14	/celetna.html	https://rehos.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36	1920,1080,1	0
+d140b9903f0801aa178f7baac20c3a36	2026/08/01 14:36:05	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36	1536,864,1.25	0
+c2127e3ef46c00d80f2ef0cffb383897	2026/08/01 16:41:24	/	https://pedf.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0	1920,1200,1	0
