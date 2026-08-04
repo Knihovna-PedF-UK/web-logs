@@ -27380,3 +27380,5 @@ ffc96b0f55a27ec41e26361a2b136621	2026/08/04 16:29:14	/	https://www.google.com/	M
 05392d4aaf79e7daec740743b3131d28	2026/08/04 16:46:39	/sluzby.htm	https://duckduckgo.com/	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.5.2 Safari/605.1.15	1440,900,2	0
 05392d4aaf79e7daec740743b3131d28	2026/08/04 16:46:43	/index.html	https://knihovna-pedf-uk.github.io/sluzby.htm	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.5.2 Safari/605.1.15	1440,900,2	0
 04814da43b9d3750b04af2154fe7a726	2026/08/04 17:03:23	/celetna.html		Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36	393,873,2.75	0
+42d9fdd05b85024a8d40a656a31808fa	2026/08/04 18:31:02	/inform_vzdelavani.htm		Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)	1600,1600,1	153
+07a6c19369981ad7214e773934a0d59c	2026/08/04 20:59:32	/provozni_doba.htm	https://gemini.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36	1536,864,1.25	0
