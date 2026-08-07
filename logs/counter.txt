@@ -27477,3 +27477,70 @@ ead503eea142b0f367b1c19bb9bab212	2026/08/06 09:29:36	/	https://www.google.com/	M
 d68bcece0be89d8b35148479082d4eac	2026/08/06 10:11:55	/	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36	1536,864,1.25	0
 4f718c84e63b54d9a487a74e9aa6342f	2026/08/06 10:18:03	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0	2400,1350,0.8	0
 b1b60f5dae6d62dfe706ea604d2450ac	2026/08/06 10:36:44	/	https://www.google.com/	Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6 Mobile/15E148 Safari/604.1	375,812,3	0
+4f718c84e63b54d9a487a74e9aa6342f	2026/08/06 10:45:59	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36	1920,1080,1	0
+0a0de0d048a52bbe1e99d6b01e4e3b6b	2026/08/06 10:52:29	/		Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.9008.1389 Safari/537.36	375,812,1	0
+b1b60f5dae6d62dfe706ea604d2450ac	2026/08/06 10:58:30	/index.html		Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6 Mobile/15E148 Safari/604.1	375,812,3	0
+2f24b8ffb460258abee0e591debee11a	2026/08/06 10:58:37	/index.html	https://mail.lfp.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36	1920,1080,1	0
+f5e24b473b75b92a12ec66aba3b490ac	2026/08/06 10:58:43	/sluzby.htm	https://knihovna.pedf.cuni.cz/index.html	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36	1920,1080,1	0
+b1b60f5dae6d62dfe706ea604d2450ac	2026/08/06 10:58:56	/kontaktni_adresa.htm	https://knihovna.pedf.cuni.cz/index.html	Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6 Mobile/15E148 Safari/604.1	375,812,3	0
+4f718c84e63b54d9a487a74e9aa6342f	2026/08/06 11:37:54	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36	1920,1080,1	0
+e5a7f3828f1a88445f58d2247470302f	2026/08/06 11:47:30	/index-en.html		Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.5 Mobile/15E148 Safari/604.1	440,956,3	0
+c4f42b59fa521913b523dc774a6ae2de	2026/08/06 12:04:41	/inform_vzdelavani.htm		Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)	1600,1600,1	153
+4f718c84e63b54d9a487a74e9aa6342f	2026/08/06 12:30:13	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36	1920,1080,1	0
+4f718c84e63b54d9a487a74e9aa6342f	2026/08/06 12:31:22	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36	1920,1080,1	0
+b2b5c7a1e70dbc2ca63f77ebfa4bb785	2026/08/06 12:35:47	/		Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.5 Safari/605.1.15	1194,702,2	0
+b2b5c7a1e70dbc2ca63f77ebfa4bb785	2026/08/06 13:09:11	/		Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.5 Safari/605.1.15	1194,702,2	0
+621e6bf223e05824b4cee53d088590f8	2026/08/06 13:20:42	/		Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36	393,873,2.75	0
+6a808518377448489f305ab0a68362e6	2026/08/06 13:49:00	/biblio.html	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0	1280,1024,1	0
+bf3cdd345527627a6145f561609b9220	2026/08/06 14:06:14	/		Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36	360,780,3	0
+9755b9bb3351b4ef8e3df3081e217545	2026/08/06 14:28:27	/odpisy.htm	https://www.google.com/	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36	1710,1107,2	0
+72293a6207c8c0adf9b179338bf83f45	2026/08/06 14:30:11	/	https://pedf.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0	1920,1080,1	0
+89b4db8f1ff7e9032d7cc31f63326952	2026/08/06 15:21:59	/inform_vzdelavani.htm	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36	1536,864,1.25	0
+b4d248a03f0e34b13f4325121d403010	2026/08/06 15:34:32	/sluzby.htm		Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2102.1836 Mobile Safari/537.36	375,812,1	0
+68aff9322887c8d1ee0edb9ac39cb80c	2026/08/06 15:37:59	/online_objednani.html		Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36; ClaudeBot/1.0; +claudebot@anthropic.com)	448,896,1	153
+72293a6207c8c0adf9b179338bf83f45	2026/08/06 15:48:27	/	https://pedf.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0	1920,1080,1	0
+b2b5c7a1e70dbc2ca63f77ebfa4bb785	2026/08/06 15:56:46	/	https://www.google.com/	Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6 Mobile/15E148 Safari/604.1	390,844,3	0
+b2b5c7a1e70dbc2ca63f77ebfa4bb785	2026/08/06 15:57:53	/informace.htm	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6 Mobile/15E148 Safari/604.1	390,844,3	0
+b9fb565921e56c5fc3de691d4302ea13	2026/08/06 15:59:48	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0	1536,864,1.25	0
+b9fb565921e56c5fc3de691d4302ea13	2026/08/06 16:08:22	/	https://www.bing.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0	1536,864,1.25	0
+b9fb565921e56c5fc3de691d4302ea13	2026/08/06 16:08:26	/hledat.html	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0	1536,864,1.25	0
+6035395b6f395bd43a8f2d2513046040	2026/08/06 16:27:14	/		Mozilla/5.0 (iPhone; CPU iPhone OS 14_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Mobile/15E148 Safari/604.1	390,844,3	0
+b9fb565921e56c5fc3de691d4302ea13	2026/08/06 16:29:05	/	https://www.bing.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0	1536,864,1.25	0
+b9fb565921e56c5fc3de691d4302ea13	2026/08/06 16:29:08	/hledat.html	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0	1536,864,1.25	0
+7cd7e8aaf1530b8975ef49c3f86c46d0	2026/08/06 17:35:01	/	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0	1366,768,1	0
+daf47f67184db76948706a3c130aa991	2026/08/06 17:53:12	/celetna.html	https://cuni.cz/	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36	432,960,2.5	0
+5fee1c6b57f315d698c1fdc3f9e317e7	2026/08/06 21:03:37	/		meta-externalads/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)	1050,1893,1	0
+7d8fc209d307f35dd8152ab54c7e2539	2026/08/06 21:03:50	/hledat.html		meta-externalads/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)	1050,1893,1	0
+6095a890076702c50116382c798d2470	2026/08/06 21:03:54	/hledat.html		meta-externalads/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)	1050,1893,1	0
+32085b376bcb46e39e19d80f2e00724f	2026/08/06 21:10:59	/index.html		meta-externalads/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)	1050,1893,1	0
+ecb51401cfc5b0301d6eaaf64afb5d48	2026/08/06 21:18:09	/sluzby.htm		meta-externalads/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)	1050,1893,1	0
+c530b71433740d74515bfac2e254de0b	2026/08/06 21:21:29	/open_access.html		meta-externalads/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)	1050,1893,1	0
+7d570a3178a14c2333e1f544a0ff96c1	2026/08/06 21:25:20	/prostory.html		meta-externalads/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)	1050,1893,1	0
+2a0c82b37950003cacd98f091e1971a3	2026/08/06 21:29:39	/bibliobox.html		meta-externalads/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)	1050,1893,1	0
+ca017f2d67f90cb0f1328c27b369485f	2026/08/06 21:29:54	/bibliobox-en.html		meta-externalads/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)	1050,1893,1	0
+51b982de8b20e03868de0f5affef759b	2026/08/06 21:32:28	/sbirky.html		meta-externalads/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)	1050,1893,1	0
+5f47d3530e77b5cfd722c85417d38a41	2026/08/06 21:32:34	/sbirky.html		meta-externalads/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)	1050,1893,1	0
+2e4a755659a6cea515c4d2026786dd42	2026/08/06 21:38:04	/inform_vzdelavani.htm		Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)	1600,1600,1	153
+30f8ae6d835ae39854073a149042fab8	2026/08/06 21:39:36	/odborne_prace.html		meta-externalads/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)	1050,1893,1	0
+d4fc6002366024b97e284a92e884c7be	2026/08/06 21:39:42	/odborne_prace.html		meta-externalads/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)	1050,1893,1	0
+7f5b33e80a37f11116fef49f28ea417a	2026/08/06 21:43:52	/	https://www.google.com/	Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.5.2 Mobile/15E148 Safari/604.1	375,812,3	0
+3a96dadab944a7b2068de39c1f36b712	2026/08/06 21:53:55	/objednavani_liter.htm		meta-externalads/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)	1050,1893,1	0
+506028814db4cc2b312ead88fedcb9b1	2026/08/06 22:01:06	/eiz.htm		meta-externalads/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)	1050,1893,1	0
+990b8ea0de83ccb5c33b1e760423bc69	2026/08/06 22:20:50	/tymovka.html		meta-externalads/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)	1050,1893,1	0
+91d1e9c8fef4b5cca8c89844c95dfa50	2026/08/06 22:21:43	/index-en.html		meta-externalads/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)	1050,1893,1	0
+ab7d3fc6dcdf022b811e1eed6e9daf04	2026/08/06 23:34:07	/celetna.html		meta-externalads/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)	1050,1893,1	0
+06b98ffe81997345397f6eebae612f53	2026/08/06 23:34:20	/celetna-en.html		meta-externalads/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)	1050,1893,1	0
+4b89a16a247faa76edd2d9a2fbdd43cf	2026/08/06 23:34:38	/search.html		meta-externalads/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)	1050,1893,1	0
+91d1e9c8fef4b5cca8c89844c95dfa50	2026/08/06 23:41:18	/zpozdne.html		meta-externalads/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)	1050,1893,1	0
+363a0bce2f6b788cdabfec017bf98b45	2026/08/06 23:44:24	/eiz-kvv.html		meta-externalads/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)	1050,1893,1	0
+f91cb65569903f946ec72efac7740992	2026/08/06 23:44:28	/provozni_doba.htm	https://www.google.com/	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36	384,854,2.8125	0
+f91cb65569903f946ec72efac7740992	2026/08/06 23:45:06	/	https://www.google.com/	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36	384,854,2.8125	0
+e5fd722c0a3b8d9dbefce395da30e14f	2026/08/06 23:48:46	/handiscn.htm		meta-externalads/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)	1050,1893,1	0
+70a8666e307b104b488bf4d9a0e29bf9	2026/08/06 23:49:47	/predatorske-casopisy.html		meta-externalads/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)	1050,1893,1	0
+95eb543363f9ea1f46e409628ad31337	2026/08/07 00:08:27	/vypujcni_protokol.html		meta-externalads/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)	1050,1893,1	0
+d492a45d929fc45234059b36cf073cb5	2026/08/07 00:16:58	/rezervacni_boxy.html		meta-externalads/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)	1050,1893,1	0
+60090a947e731071e9078cbcc6094da3	2026/08/07 00:18:51	/		Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/116.0.5845.82 Safari/537.36	1685,980,1	153
+6c88ca658bc16a0ec2556f52cef55858	2026/08/07 01:01:06	/cenik.htm		meta-externalads/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)	1050,1893,1	0
+d514f6350ead31c45e4afed8a1a9cbda	2026/08/07 01:33:49	/periodika.htm		meta-externalads/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)	1050,1893,1	0
+76e3ddf60aa3584aaf28620c56fb76e8	2026/08/07 01:33:54	/periodika.htm		meta-externalads/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)	1050,1893,1	0
+d95c88eeb8ec136359844f1c4a195248	2026/08/07 01:42:14	/aktualizace.html		meta-externalads/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)	1050,1893,1	0
