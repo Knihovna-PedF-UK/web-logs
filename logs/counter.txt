@@ -27544,3 +27544,10 @@ d492a45d929fc45234059b36cf073cb5	2026/08/07 00:16:58	/rezervacni_boxy.html		meta
 d514f6350ead31c45e4afed8a1a9cbda	2026/08/07 01:33:49	/periodika.htm		meta-externalads/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)	1050,1893,1	0
 76e3ddf60aa3584aaf28620c56fb76e8	2026/08/07 01:33:54	/periodika.htm		meta-externalads/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)	1050,1893,1	0
 d95c88eeb8ec136359844f1c4a195248	2026/08/07 01:42:14	/aktualizace.html		meta-externalads/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)	1050,1893,1	0
+22929f0d3609a41da6816641992f7918	2026/08/07 03:08:16	/handiscn_b.htm		Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.5118.1639 Mobile Safari/537.36	375,812,1	0
+5ebcd7bcfca2a82960881eb4472d3a79	2026/08/07 04:38:47	/celetna.html	https://cuni.cz/	Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Mobile/15E148 Safari/604.1	393,852,3	0
+0574396e49da6bcb24124eca03ecf1e2	2026/08/07 05:36:57	/inform_vzdelavani.htm		Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)	1600,1600,1	153
+d140b9903f0801aa178f7baac20c3a36	2026/08/07 06:53:41	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36	1536,864,1.25	0
+0d22c85b963bd3156a9929756f90c827	2026/08/07 07:58:44	/	https://www.google.com/	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36	360,800,3	0
+643b8ba9c7ee5f94b3135aa44181186a	2026/08/07 08:54:18	/rezervacni_boxy.html		Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2855.1266 Safari/537.36	375,812,1	0
+4f718c84e63b54d9a487a74e9aa6342f	2026/08/07 09:19:24	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0	2400,1350,0.8	0
