@@ -27712,3 +27712,11 @@ ed880fcf1c6daedb461b916b148e5f65	2026/08/10 18:46:12	/hledat.html	https://knihov
 428fba71f65c45a0b5d1641dc3825482	2026/08/10 18:54:08	/index.html	https://knihovna.pedf.cuni.cz/prostory.html	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36	1920,1080,0.8999999761581421	0
 77e4d927769c30a27a63de2ab1e08b88	2026/08/10 19:31:24	/inform_vzdelavani.htm		Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)	1600,1600,1	153
 1a2927510ad2c644ac3ae39b3beaa0fb	2026/08/10 19:59:08	/index.html		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36	1280,720,1.5	0
+6520e6688d191d130cc33e07a1e70735	2026/08/10 22:54:33	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36	1280,1200,1	0
+2b3d55394509ead3cb469385b4373b42	2026/08/10 22:56:49	/	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36	1920,1080,1	0
+c3b675562bd95e0bee3a66b5b579c8ad	2026/08/11 00:25:52	/eiz-kddd.html		Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.3824.1595 Safari/537.36	375,812,1	0
+ac49279fe48200bc9ff04d956471db90	2026/08/11 01:51:56	/provozni_doba.htm	https://www.google.com/	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36	1470,956,2	0
+ac49279fe48200bc9ff04d956471db90	2026/08/11 01:52:15	/	https://www.google.com/	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36	1470,956,2	0
+023bafeb3f47c0bc222f68aa88506362	2026/08/11 03:34:18	/inform_vzdelavani.htm		Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)	1600,1600,1	153
+765c14922baa1650952afd5c422201c5	2026/08/11 04:12:39	//library.html		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36	1280,1200,1	0
+3f8bff3e551dec557387a56a3f4d8707	2026/08/11 07:19:29	/search.html		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36	1280,1200,1	0
