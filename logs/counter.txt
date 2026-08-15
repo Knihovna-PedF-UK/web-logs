@@ -27969,3 +27969,16 @@ a36fc77ae68d4cde79683b5b54de7558	2026/08/15 06:02:58	//hledat.html		Mozilla/5.0 
 6035395b6f395bd43a8f2d2513046040	2026/08/15 06:27:29	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36	800,600,1	0
 305c2a2cd370c23b85e7a75532264154	2026/08/15 06:47:11	/digibooks-sppg.html		Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.9970.1189 Safari/537.36	375,812,1	0
 d280b34eff968769c969d1cfbd645dd9	2026/08/15 08:09:53	//odborne_prace.html		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36	1280,1200,1	0
+a89e1e49145a5e85c337dd79bfabf7ba	2026/08/15 09:43:50	/odpisy.htm	https://www.google.com/	Mozilla/5.0 (iPhone; CPU iPhone OS 26_6_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/152.0.7977.40 Mobile/15E148 Safari/604.1	402,874,3	0
+0a94577ffa8250d661f161daa9a012d5	2026/08/15 10:17:09	/		Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36	384,854,2.8125	0
+669b7944a8d6c39c575cfb7ab928808d	2026/08/15 11:03:11	/		Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.2465.1096 Safari/537.36	375,812,1	0
+bf4ccc8e98786b7b852c7068f234b3d6	2026/08/15 11:40:18	/inform_vzdelavani.htm		Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)	1600,1600,1	153
+6d9341bd2fd746cc5a2bf471f3fd0381	2026/08/15 12:10:01	/clanky/pitter.html		Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.1599.1058 Safari/537.36	375,812,1	0
+6788597c0a0c77e0e8a7aca9feb4cd80	2026/08/15 12:25:01	/index.html		Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 PTST/260802.202201	1920,1200,1	0
+6788597c0a0c77e0e8a7aca9feb4cd80	2026/08/15 12:25:15	/index.html		Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 PTST/260802.202201	1920,1200,1	0
+6788597c0a0c77e0e8a7aca9feb4cd80	2026/08/15 12:25:22	/index.html		Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/151.0.0.0 Safari/537.36 PTST/260802.202201	800,600,1	0
+b2b5c7a1e70dbc2ca63f77ebfa4bb785	2026/08/15 12:36:43	/	https://www.google.com/	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15	1440,900,2	0
+b2b5c7a1e70dbc2ca63f77ebfa4bb785	2026/08/15 12:44:10	/	https://www.google.com/	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15	1440,900,2	0
+04a724f462712ee631a2e9643a5b7c87	2026/08/15 13:59:40	/eiz-kg.html		Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.8014.1540 Safari/537.36	375,812,1	0
+3b92ff27116aaf4a9b79d23829b66f31	2026/08/15 15:06:06	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36	1280,720,1.5	0
+02710007a358a79a234a6a98d955a022	2026/08/15 15:27:04	//informace.htm		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36	1280,1200,1	0
