@@ -28443,3 +28443,12 @@ af8840e86aec3294b655a5034db2e5b1	2026/08/21 15:52:27	/	https://www.google.com/	M
 6c185cd33a0a6c35f8b5b794a3eb15d0	2026/08/21 19:49:31	/	https://www.google.com/	Mozilla/5.0 (Android 16; Mobile; rv:153.0) Gecko/153.0 Firefox/153.0	360,804,3	0
 6c185cd33a0a6c35f8b5b794a3eb15d0	2026/08/21 19:49:55	/provozni_doba.htm	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (Android 16; Mobile; rv:153.0) Gecko/153.0 Firefox/153.0	360,804,3	0
 fabfa84e461cc25f92bda5178bc9389f	2026/08/21 19:52:41	/handiscn.htm		Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.6241.1304 Safari/537.36	375,812,1	0
+452ef42711b9c69bf66d05c66a99a17b	2026/08/21 21:05:50	/	https://duckduckgo.com/	Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) FxiOS/153.3 Mobile/15E148 Safari/604.1	390,844,3	0
+f5f9cde23d16bfbb652a7971560e85db	2026/08/21 22:49:35			Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36		
+dea42b8bc9f9829b81b13f67d2f40450	2026/08/21 23:47:05	/inform_vzdelavani.htm		Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)	1600,1600,1	153
+697a1688fcaca4cc2ffc1483f329dd18	2026/08/22 00:16:38	/	https://www.bing.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0	1536,864,1.25	0
+697a1688fcaca4cc2ffc1483f329dd18	2026/08/22 00:16:48	/zpozdne.html	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0	1536,864,1.25	0
+697a1688fcaca4cc2ffc1483f329dd18	2026/08/22 00:20:18	/	https://www.bing.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0	1536,864,1.25	0
+697a1688fcaca4cc2ffc1483f329dd18	2026/08/22 00:20:26	/zpozdne.html	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0	1536,864,1.25	0
+e4aa85752bd2b20ea6f6d42c5536f786	2026/08/22 03:59:57	/		Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6 Mobile/15E148 Safari/604.1	402,874,3	0
+7af77f3dc89efba24665134479ce458a	2026/08/22 07:33:51	/inform_vzdelavani.htm		Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)	1600,1600,1	153
