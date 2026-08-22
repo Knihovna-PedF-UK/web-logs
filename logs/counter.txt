@@ -28452,3 +28452,10 @@ dea42b8bc9f9829b81b13f67d2f40450	2026/08/21 23:47:05	/inform_vzdelavani.htm		Moz
 697a1688fcaca4cc2ffc1483f329dd18	2026/08/22 00:20:26	/zpozdne.html	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0	1536,864,1.25	0
 e4aa85752bd2b20ea6f6d42c5536f786	2026/08/22 03:59:57	/		Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6 Mobile/15E148 Safari/604.1	402,874,3	0
 7af77f3dc89efba24665134479ce458a	2026/08/22 07:33:51	/inform_vzdelavani.htm		Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)	1600,1600,1	153
+44be031d2e2ced0943a3470908e9f002	2026/08/22 09:11:13	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36	1536,864,1.25	0
+0148429addd594b69de2dc794946b557	2026/08/22 10:12:05	/	https://www.google.com/	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15	1470,956,2	0
+77e34a350b773509a40f19e453463c00	2026/08/22 10:50:24	/index.html	https://email.seznam.cz/	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36	385,854,1.875	0
+77e34a350b773509a40f19e453463c00	2026/08/22 10:53:27	/provozni_doba.htm	https://www.google.com/	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36	385,854,1.875	0
+c58046336d85d106a5c1c882d4139dda	2026/08/22 10:54:47	/		Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2129.1569 Safari/537.36	375,812,1	0
+07bd48c42c92ef54a2b8dc47f756094b	2026/08/22 11:36:52	/	https://cuni.primo.exlibrisgroup.com/	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:152.0) Gecko/20100101 Firefox/152.0	1512,982,2	0
+f3a350b6b24eb5e7c0484b6728b4f183	2026/08/22 15:46:11	/inform_vzdelavani.htm		Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)	1600,1600,1	153
