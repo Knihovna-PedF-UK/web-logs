@@ -28946,3 +28946,4 @@ f9c0949987aec98f054c52b0fe4e6ce6	2026/08/29 17:48:41	/biblio.html	https://knihov
 f9c0949987aec98f054c52b0fe4e6ce6	2026/08/29 17:49:41	/	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36	1536,864,1.25	0
 44be031d2e2ced0943a3470908e9f002	2026/08/29 18:10:24	/		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36	1536,864,1.25	0
 a33be7e794a505f5f63ed59ecc249d84	2026/08/29 18:47:34	/kvalifikacni_prace.htm	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36	1536,864,1.25	0
+9bb25c477475bd73d86501b404768143	2026/08/29 21:08:54	/		Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36	393,873,2.75	0
