@@ -28980,3 +28980,11 @@ e6a10eb21b12d9e8ff6fd669c534c319	2026/08/30 18:36:49	/repozitare_zp.html		Mozill
 eaa171587edae760f4635c951b260c4c	2026/08/30 19:22:11	/bibliobox.html	https://www.google.com/	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36	393,873,2.75	0
 e65d01ed8219ddb7804e868146047084	2026/08/30 19:24:23	/	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0	1536,960,1.25	0
 0c331c444805bcc4566e4b8110b6f714	2026/08/30 19:57:41	/eiz.htm	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36	1536,960,1.25	0
+f48bfb207396889f70b7489ae949f5cd	2026/08/30 20:31:59	/odpisy.htm	https://www.google.com/	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36	1710,1107,2	0
+f48bfb207396889f70b7489ae949f5cd	2026/08/30 20:32:06	/archiv.html	https://www.google.com/	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36	1710,1107,2	0
+72293a6207c8c0adf9b179338bf83f45	2026/08/30 20:43:11	/	https://pedf.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0	1920,1080,1	0
+f0e01917378a4cc2731895a143dcf424	2026/08/30 20:54:10	/inform_vzdelavani.htm		Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)	1600,1600,1	153
+8172c9b57c4baa8e4ebffb0159ce9834	2026/08/30 21:18:03	/	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0	1920,1080,1	0
+eddd6dc45455e2c461bcc4cf402aef39	2026/08/30 21:23:32	//meziknih.htm		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.5249.119 Safari/537.36	1280,1200,1	0
+5efbc057b226b782568a8e58acf38729	2026/08/30 21:50:12	/celetna-en.html		Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GoogleOther) Chrome/151.0.7922.173 Safari/537.36	1920,1024,2	0
+cc38145962c7df8ab929186f65f4ca49	2026/08/30 22:15:43	/	https://www.google.com/	Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6 Mobile/15E148 Safari/604.1	393,852,3	0
