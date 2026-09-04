@@ -29658,3 +29658,9 @@ dd0bec4cf5d338b19011c53e3dc4850b	2026/09/04 16:48:10	/odborne_prace.html	http://
 dd0bec4cf5d338b19011c53e3dc4850b	2026/09/04 16:48:13	/informace.htm	http://localhost:8000/odborne_prace.html	Mozilla/5.0 (X11; Linux x86_64; rv:155.0) Gecko/20100101 Firefox/155.0	1920,1080,1	0
 ab8590121e405db2c8f1d3bd2b3b17b9	2026/09/04 17:04:17	/provozni_doba.htm	https://www.google.com/	Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.5 Mobile/15E148 Safari/604.1	402,874,3	0
 99be5056a303a6ac433741ac73e6debf	2026/09/04 17:35:56	/archiv.html	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36	412,892,2.625	0
+3d16e3a7e1f71d075a8e9d730aff2a69	2026/09/04 19:57:58	/	https://kramerius.cuni.cz/	Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6.1 Mobile/15E148 Safari/604.1 Brave	428,926,3	0
+b0bfde5160c795f6c922b07421a95095	2026/09/04 20:04:04	/celetna-en.html	https://www.google.com/	Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36 EdgA/152.0.0.0	360,780,3	0
+ef0d7afacf18bca1f43c6522d44b6a9b	2026/09/04 20:07:24	/	https://pedf.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0	1536,864,1.25	0
+779126a81754d10478d97fd3ea5f3e32	2026/09/04 21:17:38	/inform_vzdelavani.htm	https://www.google.com/	Mozilla/5.0 (iPhone; CPU iPhone OS 26_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/152.0.7977.64 Mobile/15E148 Safari/604.1	393,852,3	0
+a094d2bd519ab3d1e97aea3675449130	2026/09/04 21:45:36			secretscan/1.0 (+oneshot)		
+a3e58d89c2631fd47b2e69b23d1433df	2026/09/04 21:55:16	/inform_vzdelavani.htm		Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)	1600,1600,1	153
