@@ -31218,3 +31218,16 @@ e1156cb18a92fb13da5f402c5488b5b6	2026/09/19 04:30:19	/		Mozilla/5.0 (Windows NT 
 3e3c47dde3688fe3e0a04fa442a6a0b9	2026/09/19 10:30:08	/		Mozilla/5.0 (iPhone; CPU iPhone OS 18_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.0.0 Mobile/15E148 Safari/604.1	375,812,1	0
 ef0d7afacf18bca1f43c6522d44b6a9b	2026/09/19 10:46:42	/	https://pedf.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0	1536,864,1.25	0
 365ada557a7650a011adb7defc592f23	2026/09/19 12:25:21	/eiz-kvv.html	https://kvv.pedf.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36	1280,720,1.5	0
+c089a13ea5fcd38922f1909d76495953	2026/09/19 12:36:28	/provozni_doba.htm	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36	1536,864,1.25	0
+56540709091e7ec8be374cf962f2b7fc	2026/09/19 13:11:18	/	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36	1536,864,1.25	0
+4808ebf75d7f2e347128dd99c6b3dbe1	2026/09/19 13:20:25	/	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36	2560,1440,1.5	0
+11da4da982ac62fb888a98271a705b7f	2026/09/19 13:22:45	/celetna.html		Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36	1920,1080,1	0
+11da4da982ac62fb888a98271a705b7f	2026/09/19 13:33:31	/celetna.html		Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36	1920,1080,1	0
+9cb3c8e43c2434f2e16d4525fdd7091f	2026/09/19 16:03:24	/archiv.html	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0	1920,1080,1	0
+51853497465e061aca01ff82fb9cc9b9	2026/09/19 16:33:22	/	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36	1536,864,1.25	0
+51853497465e061aca01ff82fb9cc9b9	2026/09/19 16:34:31	/rezervacni_boxy.html	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36	1536,864,1.25	0
+8b3d745786fa027b1fa4332d6b900bc9	2026/09/19 17:00:05	/studovna.html	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0	1536,864,1.25	0
+8b3d745786fa027b1fa4332d6b900bc9	2026/09/19 17:00:23	/provozni_doba.htm	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0	1536,864,1.25	0
+8b3d745786fa027b1fa4332d6b900bc9	2026/09/19 17:03:54	/studovna.html	https://www.google.com/	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0	1536,864,1.25	0
+898e26a9a6c79d3e09438807823fd338	2026/09/19 17:12:17	/inform_vzdelavani.htm		Mozilla/5.0 (compatible; Baiduspider-render/2.0; +http://www.baidu.com/search/spider.html)	1600,1600,1	153
+e47b55af97acaae348f18cebf7553855	2026/09/19 17:35:40	/provozni_doba.htm	https://knihovna.pedf.cuni.cz/	Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6.1 Mobile/15E148 Safari/604.1	414,896,3	0
